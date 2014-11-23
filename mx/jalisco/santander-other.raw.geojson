@@ -1,0 +1,3277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.0913210000",
+          "20.3413870000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "El Salto",
+          "Tonala"
+        ],
+        "name": "Puente Grande",
+        "address": "Independencia # 53",
+        "neighborhood": "Centro",
+        "zipCode": "45420",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14066",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1046000000",
+          "20.3102530000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "El Salto",
+          "Tonala"
+        ],
+        "name": "El Salto",
+        "address": "Edif. Adminitrativo Plutarco Elias Local 6 Planta Alta",
+        "neighborhood": "Centro",
+        "zipCode": "45680",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14040",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1434880000",
+          "20.3717500000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tonala"
+        ],
+        "name": "Tonala",
+        "address": "16 De Septiembre # 40",
+        "neighborhood": "Centro",
+        "zipCode": "45400",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14090",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1547280000",
+          "20.4112870000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tonala"
+        ],
+        "name": "Colonia Jaliscode Tonala",
+        "address": "Unidad Administrativa",
+        "neighborhood": "Jalisco",
+        "zipCode": "45400",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14106",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1701580000",
+          "20.4020810000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tonala"
+        ],
+        "name": "Colonia Hermosa Provincia De Guadalajara",
+        "address": "Esteban Alatorre Y Jordan",
+        "neighborhood": "Hermosa Provincia",
+        "zipCode": "44770",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14028",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1742930000",
+          "20.4121140000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tonala",
+          "Zapopan"
+        ],
+        "name": "Unidad Rio Verde De Guadalajara",
+        "address": "Unidad Admva Priciliano Sanchez",
+        "neighborhood": "Oblatos",
+        "zipCode": "44700",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14095",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1814820000",
+          "20.3942990000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala",
+          "Zapopan"
+        ],
+        "name": "Villa Mariano Escobedo",
+        "address": "Chamizal Y San Andres",
+        "neighborhood": "San Andres",
+        "zipCode": "44810",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14100",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1844700000",
+          "20.3822690000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "San Pedro Tlaquepaque",
+        "address": "Guillermo Prieto # 29",
+        "neighborhood": "Centro",
+        "zipCode": "45500",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14073",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1912540000",
+          "20.4311230000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tonala",
+          "Zapopan"
+        ],
+        "name": "Zoologico De Guadalajara",
+        "address": "Calz. Independencia Int. Centro Comercial Indep.",
+        "neighborhood": "Flores Magon",
+        "zipCode": "44240",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14142",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.1943660000",
+          "20.3832800000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque"
+        ],
+        "name": "Colonia Atlas De Guadalajara",
+        "address": "Torrecillas Y Rio Zapotlanejo",
+        "neighborhood": "Atlas",
+        "zipCode": "44870",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14023",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2012000000",
+          "20.3634820000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque"
+        ],
+        "name": "Colonia Las Juntas De Guadalajara",
+        "address": "Priv. San Pedro Sin Num.",
+        "neighborhood": "Las Juntas",
+        "zipCode": "45590",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14030",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2014800000",
+          "20.4203450000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Colonia Independencia De Guadalajara",
+        "address": "Division Del Norte # 470",
+        "neighborhood": "Jardines Alcalde",
+        "zipCode": "44290",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14029",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2025650000",
+          "20.4033610000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "San Juan De Dios De Guadalajara",
+        "address": "Mercado San Juan De Dios",
+        "neighborhood": "Centro",
+        "zipCode": "44360",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14140",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2041880000",
+          "20.3945990000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Agua Azul De Guadalajara",
+        "address": "R. Michel 275 Mezannine",
+        "neighborhood": "San Carlos",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14017",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2042100000",
+          "20.4025460000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Galeana De Guadalajara",
+        "address": "Degollado # 190 Sector Juarez",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14043",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2051260000",
+          "20.4105110000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Guadalajara",
+        "address": "Alcande # 500",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14045",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2112230000",
+          "20.4259450000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Atemajac Del Valle",
+        "address": "Granaditos Y Lopez  Cotilla",
+        "neighborhood": "Atemajac Del Valle",
+        "zipCode": "45190",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14007",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2114700000",
+          "20.3743480000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Colonia 18 De Marzo De Guadalajara",
+        "address": "Niquel Y Mina Amparo",
+        "neighborhood": "18 De Marzo",
+        "zipCode": "44940",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14026",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2134740000",
+          "20.4207200000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Chapultepec Country De Guadalajara",
+        "address": "Avila Camacho # 1725",
+        "neighborhood": "Chap. Country",
+        "zipCode": "44620",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14035",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2223450000",
+          "20.3834830000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Colonia Del Sur De Guadalajara",
+        "address": "Fray Andres De Urdaneta # 1800 Local 5",
+        "neighborhood": "Jardines De La Cruz",
+        "zipCode": "44920",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14025",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2230450000",
+          "20.3958360000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Colonia Moderna De Guadalajara",
+        "address": "Agustin Yañez # 2307",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14031",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2255110000",
+          "20.3923870000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Mercado De Abastos De Guadalajara",
+        "address": "Mandarina S/n",
+        "neighborhood": "Mercado De Abastos",
+        "zipCode": "44530",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14141",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2357980000",
+          "20.4334960000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Zapopan",
+        "address": "Av. Tesistan # 477",
+        "neighborhood": "San Francisco",
+        "zipCode": "45100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14103",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2410700000",
+          "20.3949000000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Colonia Chapalita De Guadalajara",
+        "address": "Aurora # 105",
+        "neighborhood": "Chapalita",
+        "zipCode": "45040",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14024",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2422880000",
+          "20.6252210000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Tonala",
+        "address": "Emiliano Zapata Esq. Hidalgo S/n",
+        "neighborhood": "Centro",
+        "zipCode": "45400",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4854",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2457930000",
+          "20.3756890000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Colinas De Las Aguilas De Guadalajara",
+        "address": "U. Administrativa L. Mateos Sur 5100",
+        "neighborhood": "Arboledas",
+        "zipCode": "45080",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14022",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2633370000",
+          "20.3255320000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": "Tlajomulco De Zuñiga",
+        "name": "Santa Anita",
+        "address": "16 De Septiembre # 113",
+        "neighborhood": "Centro",
+        "zipCode": "45600",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14074",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2650990000",
+          "20.2835220000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "corresponsal",
+        "municipality": "Tlajomulco De Zuñiga",
+        "name": "Tlajomulco De Zuñiga",
+        "address": "Flaviano Ramos 63-a",
+        "neighborhood": "Centro",
+        "zipCode": "45640",
+        "phone": null,
+        "branchId": "",
+        "atmId": "14088",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2838340000",
+          "20.6344920000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Lomas Del Nilo",
+        "address": "Av. Alvarez Del Castillo 379",
+        "neighborhood": "Infonavit La Soledad",
+        "zipCode": "45403",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7250",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.2951430000",
+          "20.6876090000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": "Guadalajara",
+        "name": "Oblatos",
+        "address": "Av. Circunvalacion 2700",
+        "neighborhood": "Oblatos",
+        "zipCode": "44700",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7769",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3043540000",
+          "20.6454500000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Revolucion",
+        "address": "Av. Revolucion 2695",
+        "neighborhood": "Jardines De La Paz Norte",
+        "zipCode": "44860",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4848",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3087200000",
+          "20.6860000000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": "Guadalajara",
+        "name": "Talpita",
+        "address": "Santa Clemencia 1819",
+        "neighborhood": "Talpita",
+        "zipCode": "44710",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4815",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3112780000",
+          "20.6668730000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Mercado San Juan De Dios",
+        "address": "Av. Javier Mina Esq. Alfareros S/n",
+        "neighborhood": "San Juan De Dios",
+        "zipCode": "44360",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4803",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3122720000",
+          "20.6740880000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque"
+        ],
+        "name": "San Juan Bosco",
+        "address": "Sebastian Allende (calle 58) 401",
+        "neighborhood": "San Juan Bosco",
+        "zipCode": "44730",
+        "phone": null,
+        "branchId": "",
+        "atmId": "435",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3153320000",
+          "20.6615570000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Medrano",
+        "address": "Av. Fray Antonio De Segovia 231",
+        "neighborhood": "Medrano",
+        "zipCode": "44800",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7809",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3158760000",
+          "20.6383390000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "Tlaquepaque",
+        "address": "Av. Juarez 279",
+        "neighborhood": "Centro",
+        "zipCode": "45500",
+        "phone": null,
+        "branchId": "",
+        "atmId": "421",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3180390000",
+          "20.7196110000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Plaza Independencia",
+        "address": "Independencia Norte 3295",
+        "neighborhood": "Independencia",
+        "zipCode": "44240",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4839",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3215250000",
+          "20.6168040000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Tonala"
+        ],
+        "name": "El Tapatio",
+        "address": "Carretera A Chapala 3221",
+        "neighborhood": "El Tapatio",
+        "zipCode": "45588",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7851",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3254400000",
+          "20.6876400000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": "Guadalajara",
+        "name": "Belisario Dominguez",
+        "address": "Belisario Dominguez 1055",
+        "neighborhood": "Independencia",
+        "zipCode": "44370",
+        "phone": null,
+        "branchId": "",
+        "atmId": "2205",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3311300000",
+          "20.6953920000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Calz Independencia",
+        "address": "Calzada Independencia Norte 1383",
+        "neighborhood": "Independencia",
+        "zipCode": "44340",
+        "phone": null,
+        "branchId": "",
+        "atmId": "419",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3314150000",
+          "20.6644380000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Reforma",
+        "address": "Revolucion 1081",
+        "neighborhood": "Real",
+        "zipCode": "44400",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4809",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3324520000",
+          "20.6885350000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Udg Cucs",
+        "address": "Sierra Nevada Esq. Salvador Quevedo Zubieta 930",
+        "neighborhood": "Independencia",
+        "zipCode": "44350",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7892",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3328520000",
+          "20.6452670000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque"
+        ],
+        "name": "Gonzalez Gallo",
+        "address": "Gonzalez Gallo 1746",
+        "neighborhood": "Atlas",
+        "zipCode": "44870",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4824",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3351920000",
+          "20.6879150000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Independencia",
+        "address": "Independencia Norte 813",
+        "neighborhood": "Independencia",
+        "zipCode": "44240",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4833",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3374810000",
+          "20.6734910000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Obregon",
+        "address": "Alvaro Obregon 266",
+        "neighborhood": "San Juan De Dios",
+        "zipCode": "44360",
+        "phone": null,
+        "branchId": "",
+        "atmId": "5881",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3389330000",
+          "20.6776900000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Centro Metropolitano",
+        "address": "Republica 81",
+        "neighborhood": "Libertad",
+        "zipCode": "44750",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4800",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3394120000",
+          "20.6768970000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Magno Centro Joyero",
+        "address": "Paseo Del Hospicio 22 L-2156",
+        "neighborhood": "Calzada Independencia",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "8976",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3474660000",
+          "20.7043820000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Jardines Alcalde",
+        "address": "Circunvalacion Division De Nte 1021",
+        "neighborhood": "Guadalupana",
+        "zipCode": "44220",
+        "phone": null,
+        "branchId": "",
+        "atmId": "281",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3474740000",
+          "20.6698520000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Principal Guadalajara",
+        "address": "16 De Septiembre 456",
+        "neighborhood": "Zona Centro Guadalajara",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4857",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3495050000",
+          "20.6741810000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Lopez Cotilla",
+        "address": "Lopez Cotilla 449",
+        "neighborhood": "Zona Centro Guadalajara",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4812",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3498290000",
+          "20.6774120000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Santa Monica",
+        "address": "Zaragoza Esq. Hidalgo 55",
+        "neighborhood": "Zona Centro Guadalajara",
+        "zipCode": "44100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4818",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3556810000",
+          "20.7149350000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Atemajac Del Valle",
+        "address": "Centro Comercial Atemajac S/n",
+        "neighborhood": "Jardines Del Country",
+        "zipCode": "44210",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4659",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3591150000",
+          "20.6699870000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "La Paz",
+        "address": "Av. La Paz 1495",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4827",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3600380000",
+          "20.6494570000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Plaza Las Torres",
+        "address": "Av. 8 De Julio 1793",
+        "neighborhood": "Morelos",
+        "zipCode": "44910",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4830",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3647910000",
+          "20.6486560000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Lazaro Cardenas",
+        "address": "Lazaro Cardenas 1393",
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44940",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4836",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3655230000",
+          "20.6377030000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Zona Industrial Guadalajara",
+        "address": "Av. 8 De Julio 2660",
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44940",
+        "phone": null,
+        "branchId": "",
+        "atmId": "264",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3674770000",
+          "20.6821800000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Santa Teresita",
+        "address": "Calle Angulo 1406",
+        "neighborhood": "Santa Teresita",
+        "zipCode": "44600",
+        "phone": null,
+        "branchId": "",
+        "atmId": "436",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3682230000",
+          "20.6693770000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Chapultepec Guadalajara",
+        "address": "Av. Chapultepec 427",
+        "neighborhood": "Americana",
+        "zipCode": "44160",
+        "phone": null,
+        "branchId": "",
+        "atmId": "295",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3722000000",
+          "20.6747000000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Americana",
+        "address": "Av. Vallarta 1076",
+        "neighborhood": "Americana",
+        "zipCode": "44160",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7999",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3722000000",
+          "20.6951000000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "La Normal",
+        "address": "Calz. Manuel Avila Camacho 1106",
+        "neighborhood": "La Normal",
+        "zipCode": "44260",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7815",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3730460000",
+          "20.6887950000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Ladron De Guevara",
+        "address": "Av. Americas 670",
+        "neighborhood": "Ladron De Guevara",
+        "zipCode": "44600",
+        "phone": null,
+        "branchId": "",
+        "atmId": "330",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3746630000",
+          "20.6746320000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Vallarta",
+        "address": "Vallarta 1900",
+        "neighborhood": "Obrera",
+        "zipCode": "44140",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4668",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3759530000",
+          "20.7030140000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Americas Country",
+        "address": "Av. Americas 1586",
+        "neighborhood": "Country Club",
+        "zipCode": "44637",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4665",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3788160000",
+          "20.7128630000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Plaza Patria",
+        "address": "Centro Comercial Plaza Patria",
+        "neighborhood": "Residencial Patria",
+        "zipCode": "45160",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4677",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3798530000",
+          "20.6617730000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Modulo Expo Guadalajara",
+        "address": "Av. Mariano Otero 1499 Local 10",
+        "neighborhood": "Verde Valle",
+        "zipCode": "44550",
+        "phone": null,
+        "branchId": "",
+        "atmId": "1780",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3802850000",
+          "20.6545070000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Abastos",
+        "address": "Lazaro Cardenas 2305",
+        "neighborhood": "Las Torres",
+        "zipCode": "44920",
+        "phone": null,
+        "branchId": "",
+        "atmId": "278",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3810890000",
+          "20.6730040000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Lopez Cotilla",
+        "address": "Francisco Quevedo 117",
+        "neighborhood": "Arcos Vallarta",
+        "zipCode": "44130",
+        "phone": null,
+        "branchId": "",
+        "atmId": "99",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3845030000",
+          "20.6929150000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Terranova",
+        "address": "Av. Terranova 1101",
+        "neighborhood": "Fracc. Lomas De Terranova",
+        "zipCode": "44647",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4686",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3851690000",
+          "20.6977100000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Pablo Neruda",
+        "address": "Pablo Neruda 2889",
+        "neighborhood": "Providencia",
+        "zipCode": "44630",
+        "phone": null,
+        "branchId": "",
+        "atmId": "2224",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3854800000",
+          "20.7410140000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Plaza San Isidro",
+        "address": "Periferico Nte. 211 S/n",
+        "neighborhood": "Bosques De San Isidro",
+        "zipCode": "45168",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4704",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3871900000",
+          "20.6463340000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Plaza Arboledas",
+        "address": "Av. Arboledas 2500",
+        "neighborhood": "Rinconada De La Arboleda",
+        "zipCode": "44549",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7775",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3894170000",
+          "20.7213660000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Zapopan",
+        "address": "Hidalgoesq. 28 De Enero S/n",
+        "neighborhood": "La Villa (zapopan)",
+        "zipCode": "45100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4653",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3903710000",
+          "20.6662140000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Jardines Del Bosque",
+        "address": "Niños Heroes 3045",
+        "neighborhood": "Jardines Del Bosque",
+        "zipCode": "44520",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4656",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3935640000",
+          "20.6847120000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Manuel Acuña",
+        "address": "Manuel Acuña S/n",
+        "neighborhood": "Providencia",
+        "zipCode": "44630",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7754",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3937420000",
+          "20.7222160000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Rastro Municipal",
+        "address": "Hidalgoesq. 28 De Enero S/n",
+        "neighborhood": "La Villa (zapopan)",
+        "zipCode": "45100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "8646",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3938790000",
+          "20.6788200000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Vallarta San Jorge",
+        "address": "Av. Mexico 3225",
+        "neighborhood": "Vallarta San Jorge",
+        "zipCode": "44690",
+        "phone": null,
+        "branchId": "",
+        "atmId": "313",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3953630000",
+          "20.6378250000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Cruz Del Sur",
+        "address": "Av. Cruz Del Sur 3358",
+        "neighborhood": "Sector Oriente",
+        "zipCode": "44580",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7819",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3990850000",
+          "20.6514320000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Condoplaza Del Sol",
+        "address": "Plaza Del Sol 287",
+        "neighborhood": "Rinconada Del Sol",
+        "zipCode": "45050",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4662",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4001960000",
+          "20.6054210000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Centro Sur",
+        "address": "Periferico Sur 7835",
+        "neighborhood": "Santa Maria Tequepexpan",
+        "zipCode": "45601",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7192",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4016970000",
+          "20.6635310000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Chapalita",
+        "address": "Av. Tepeyac 716",
+        "neighborhood": "Chapalita Oriente",
+        "zipCode": "45040",
+        "phone": null,
+        "branchId": "",
+        "atmId": "314",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4029240000",
+          "20.7400230000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Modulo U De G",
+        "address": "Periferico Norte 799",
+        "neighborhood": "Nucleo Belenes",
+        "zipCode": "45100",
+        "phone": null,
+        "branchId": "",
+        "atmId": "1801",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4046850000",
+          "20.6781610000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Urbana Mexico",
+        "address": "Av. Mexico 3870",
+        "neighborhood": "Los Pinos (guad.)",
+        "zipCode": "45120",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4710",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4060770000",
+          "20.6508590000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Cd. Del Sol",
+        "address": "Av. Moctezuma 199",
+        "neighborhood": "Fracc. Cd. Del Sol",
+        "zipCode": "45050",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7121",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4074510000",
+          "20.6628320000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Niño Obrero",
+        "address": "Av. Niño Obrero 784",
+        "neighborhood": "Chapalita",
+        "zipCode": "45030",
+        "phone": null,
+        "branchId": "",
+        "atmId": "2263",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4132130000",
+          "20.6359150000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Lopez Mateos Guadalajara",
+        "address": "Av. Lopez Mateos Sur 4848",
+        "neighborhood": "Fracc. La Calma",
+        "zipCode": "45070",
+        "phone": null,
+        "branchId": "",
+        "atmId": "403",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4135570000",
+          "20.7090540000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Puerta De Hierro",
+        "address": "Blvd. Puerta De Hierro 5090",
+        "neighborhood": "Fracc. Puerta De Hierro",
+        "zipCode": "45110",
+        "phone": null,
+        "branchId": "",
+        "atmId": "2200",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4150560000",
+          "20.6355700000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Principal Hidalgonl",
+        "address": "Dr. Mier Poniente 114",
+        "neighborhood": "Centro",
+        "zipCode": "65600",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4032",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4155660000",
+          "20.6999380000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Universidad",
+        "address": "Patria 1560",
+        "neighborhood": "Santa Isabel",
+        "zipCode": "45110",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4689",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4182450000",
+          "20.6894710000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Patria",
+        "address": "Av. De La Patria 720",
+        "neighborhood": "Jardines Universidad",
+        "zipCode": "45110",
+        "phone": null,
+        "branchId": "",
+        "atmId": "285",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4199720000",
+          "20.6881780000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Espacio Select Universidad Puerta De Hierro",
+        "address": "Patria 1560",
+        "neighborhood": "Santa Isabel",
+        "zipCode": "45110",
+        "phone": null,
+        "branchId": "",
+        "atmId": "1588",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4202710000",
+          "20.6494410000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Ciudadela",
+        "address": "Av. Patria Y Av. Moctezuma S/n",
+        "neighborhood": "Cd. Del Sol",
+        "zipCode": "45040",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7861",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4207000000",
+          "20.7510000000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": "Zapopan",
+        "name": "Tesistan",
+        "address": "Av. Juan Gil Preciado 4588",
+        "neighborhood": "Fracc. Los Robles",
+        "zipCode": "45134",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7795",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4229670000",
+          "20.6216340000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Las Fuentes",
+        "address": "Av. Lopez Mateos 5880",
+        "neighborhood": "Fracc. Las Fuentes",
+        "zipCode": "45070",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4683",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4235650000",
+          "20.6791280000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "La Estancia",
+        "address": "Miguel Angel Esq. Vallarta 7",
+        "neighborhood": "Residencial La Estancia",
+        "zipCode": "45030",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4680",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4240520000",
+          "20.6630370000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Jardines De Guadalupe",
+        "address": "Av. Patria 772",
+        "neighborhood": "Jardines De Guadalupe",
+        "zipCode": "45040",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4707",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4279540000",
+          "20.6327440000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Paseos Del Sol",
+        "address": "Av. Mariano Otero Esq. Altair 5545",
+        "neighborhood": "Fracc. Arboledas 2da. Seccion",
+        "zipCode": "45070",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7114",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4295990000",
+          "20.6110940000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "La Favorita",
+        "address": "Lopez Mateos Sur 6285",
+        "neighborhood": "Las Fuentes",
+        "zipCode": "45070",
+        "phone": null,
+        "branchId": "",
+        "atmId": "8652",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4303230000",
+          "20.6771760000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Galerias Guadalajara",
+        "address": "Av. Rafael Sanzio 150",
+        "neighborhood": "La Estancia",
+        "zipCode": "45030",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7123",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4410390000",
+          "20.7302100000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Valle Real",
+        "address": "Av. Santa Margarita 4796",
+        "neighborhood": "Fracc. Jardin Real",
+        "zipCode": "45019",
+        "phone": null,
+        "branchId": "",
+        "atmId": "6803",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4420840000",
+          "20.6590430000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Guadalupe",
+        "address": "Av. Guadalupe 6340",
+        "neighborhood": "Residencial Plaza Guadalupe",
+        "zipCode": "45036",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7112",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4436980000",
+          "20.5911920000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Plaza El Palomar",
+        "address": "Prol. Adolfo Lopez Mateos",
+        "neighborhood": "Fracc. El Palomar",
+        "zipCode": "45645",
+        "phone": null,
+        "branchId": "",
+        "atmId": "4698",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4457740000",
+          "20.6826180000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Cd. Granja",
+        "address": "Calzada Central 14",
+        "neighborhood": "Cd. Granja",
+        "zipCode": "45010",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7289",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4477450000",
+          "20.6735940000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Up Guadalajara",
+        "address": "Calzada Circunvalacion Poniente 49",
+        "neighborhood": "Cd. Granja",
+        "zipCode": "45010",
+        "phone": null,
+        "branchId": "",
+        "atmId": "1370",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4486120000",
+          "20.6005530000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": [
+          "Tlaquepaque",
+          "Zapopan"
+        ],
+        "name": "Bugambilias",
+        "address": "Blvd. Bugambilias 2299",
+        "neighborhood": "Cd. Bugambilias",
+        "zipCode": "45090",
+        "phone": null,
+        "branchId": "",
+        "atmId": "2235",
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4535700000",
+          "20.5738630000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "sucursal",
+        "municipality": "Zapopan",
+        "name": "Plaza Gavilanes",
+        "address": "Lopez Mateos Sur 3911",
+        "neighborhood": "Fracc. Gavilanes",
+        "zipCode": "45645",
+        "phone": null,
+        "branchId": "",
+        "atmId": "7864",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4841780000",
+          "20.7379750000"
+        ]
+      },
+      "properties": {
+        "bank": "Santander",
+        "state": "Jalisco",
+        "type": "ventanilla",
+        "municipality": "Zapopan",
+        "name": "Tec Guadalajara",
+        "address": "Av. Gral. Ramon Corona 2514",
+        "neighborhood": "Nuevo Mexico",
+        "zipCode": "45138",
+        "phone": null,
+        "branchId": "",
+        "atmId": "1125",
+        "openingHours": {},
+        "isVerified": false
+      }
+    }
+  ]
+}
