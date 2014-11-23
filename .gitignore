@@ -1,2 +1,5 @@
-# GeoJSON data files #
-*.geojson
+# Node.js modules
+node_modules
+
+# Log files
+*.log
