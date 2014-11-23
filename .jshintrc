@@ -1,0 +1,15 @@
+{
+  "browser": false,
+  "eqeqeq": true,
+  "esnext": true,
+  "globalstrict": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "jasmine": false,
+  "maxlen": 110,
+  "globals": {
+    "require": true,
+    "console": true
+  }
+}
