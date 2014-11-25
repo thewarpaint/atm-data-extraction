@@ -348,7 +348,6 @@ Santander = {
 
         if(!Santander.doesPropertyMatch(oldFeature, feature, 'name')) {
           Santander.addProperty(oldFeature, feature, 'name');
-          // oldFeature.properties.name.push(feature.properties.name[0]);
 
           console.log('ATM name doesn\'t match:', feature.properties.name, ',',
             oldFeature.properties.name);
