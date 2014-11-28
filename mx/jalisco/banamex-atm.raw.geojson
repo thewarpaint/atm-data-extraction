@@ -1,0 +1,4249 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.17721",
+          "20.51868"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "El Salto",
+        "name": "El Salto",
+        "address": "Hidalgo 46",
+        "neighborhood": "Centro",
+        "zipCode": "45680",
+        "phone": "",
+        "atmId": [
+          "4930",
+          "7086"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.24187",
+          "20.624252"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Farmacias Guadalajara Ton",
+        "address": "Juan Garcia Parga 6",
+        "neighborhood": "Centro",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": "9574",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.24255",
+          "20.623821"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Artesanos Tonala",
+        "address": "Francisco I. Madero 84",
+        "neighborhood": "Centro",
+        "zipCode": "45400",
+        "phone": "",
+        "atmId": "8389",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.24397",
+          "20.633022"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco",
+        "name": "Tonaltecas",
+        "address": "Av.tonaltecas 65",
+        "neighborhood": "Centro",
+        "zipCode": "45400",
+        "phone": "",
+        "atmId": "3916",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.25737",
+          "20.627863"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Sc Tonala",
+        "address": "Rio Nilo 7342",
+        "neighborhood": "Loma Dorada",
+        "zipCode": "45400",
+        "phone": "",
+        "atmId": "4291",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.26587",
+          "20.631271"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Loma Dorada",
+        "address": "Calz. Rio Nilo 7745",
+        "neighborhood": "Fracc. Loma Dorada",
+        "zipCode": "45402",
+        "phone": "",
+        "atmId": "3694",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.26598",
+          "20.630747"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Farmacias Guadalajara  Lo",
+        "address": "Rio Nilo 8390",
+        "neighborhood": "Loma Dorada",
+        "zipCode": "45410",
+        "phone": "",
+        "atmId": "4221",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.26804",
+          "20.596455"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": [
+          "S.e.c. Aralmex",
+          "Sec Aralmex"
+        ],
+        "address": [
+          "Carr. El Salto - La Capilla 1501",
+          "Carr. El Salto- La Capilla S/n"
+        ],
+        "neighborhood": [
+          "Corredor Industrial El Salto",
+          "El Salto"
+        ],
+        "zipCode": "46680",
+        "phone": "",
+        "atmId": [
+          "3571",
+          "8010"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.27127",
+          "20.633793"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Rio",
+        "address": "Rio Nilo 3615",
+        "neighborhood": "Tetlan",
+        "zipCode": "44820",
+        "phone": "",
+        "atmId": "9545",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.276276",
+          "20.501251"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sec Sanmina",
+        "address": "Carr. Gdl-chapala 45 Km  15.",
+        "neighborhood": "Planta Sanmina",
+        "zipCode": "45640",
+        "phone": "",
+        "atmId": "6046",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.27653",
+          "20.67187"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "San Joaquin",
+        "address": "Presa Osorio 3905",
+        "neighborhood": "San Joaquin",
+        "zipCode": "44770",
+        "phone": "",
+        "atmId": [
+          "1749",
+          "7477"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.277954",
+          "20.640858"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Chedraui Rio Nilo",
+        "address": "Rio Nilo 7540",
+        "neighborhood": "Villas De Oriente",
+        "zipCode": "44840",
+        "phone": "",
+        "atmId": [
+          "6375",
+          "8750"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.27911",
+          "20.64243"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Lomas Del Nilo",
+        "address": "Av. Rio Nilo 1000",
+        "neighborhood": "Lomas Del Nilo",
+        "zipCode": "44860",
+        "phone": "",
+        "atmId": "2260",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.28269",
+          "20.624395"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Camichines",
+        "address": "Lazaro Cardenas 1531",
+        "neighborhood": "Camichines",
+        "zipCode": "44250",
+        "phone": "",
+        "atmId": "6809",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.28282",
+          "20.636686"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Farmacias Guadalajara San",
+        "address": "Av. Soledad 400",
+        "neighborhood": "Villas De Oriente",
+        "zipCode": "45525",
+        "phone": "",
+        "atmId": "9846",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.28607",
+          "20.599617"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Tlaquepaque",
+        "address": "Independencia 88",
+        "neighborhood": "Tlaquepaque",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": [
+          "4918",
+          "5655",
+          "5893"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.289764",
+          "20.664328"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Pre",
+        "address": "Presa Osorio 3234",
+        "neighborhood": "Agustin Ya~ez",
+        "zipCode": "44790",
+        "phone": "",
+        "atmId": "9838",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.292534",
+          "20.703764"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara San",
+        "address": "Joaquin Amaro 2248",
+        "neighborhood": "Oblatos",
+        "zipCode": "44700",
+        "phone": "",
+        "atmId": "9842",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29256",
+          "20.672544"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Hermosa Provincia",
+        "address": "Cairo 680 Y 690",
+        "neighborhood": "Hermosa Provincia",
+        "zipCode": "44750",
+        "phone": "",
+        "atmId": "6392",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29262",
+          "20.703886"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Santa Cecilia",
+        "address": "Joaquin Amaro 2102",
+        "neighborhood": "Santa Cecilia",
+        "zipCode": "44700",
+        "phone": "",
+        "atmId": "9294",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29275",
+          "20.529331"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco",
+        "name": [
+          "Aeropuerto Guadalajara",
+          "Aeropuerto Guadalajara Te"
+        ],
+        "address": "Carr. Guadalajara-chapala S/n",
+        "neighborhood": "Mpio Tlajomulco Km 15",
+        "zipCode": "45659",
+        "phone": "",
+        "atmId": [
+          "6022",
+          "6847",
+          "9463"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "name"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29339",
+          "20.644741"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Sams Tlaquepaque",
+        "address": "Av. Revolucion 428",
+        "neighborhood": "Tlaquepaque",
+        "zipCode": "45559",
+        "phone": "",
+        "atmId": "5939",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.294716",
+          "20.685928"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Art",
+        "address": "Calz. Artesanos 1089",
+        "neighborhood": "Circunvalacion Oblatos",
+        "zipCode": "44716",
+        "phone": "",
+        "atmId": "9841",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29493",
+          "20.699202"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "San Onofre",
+        "address": "Av. Artesanos 3031",
+        "neighborhood": "Fracc. Guadalajara Oriente",
+        "zipCode": "44200",
+        "phone": "",
+        "atmId": "7231",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29815",
+          "20.69456"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara San",
+        "address": "Hacienda Santiago 2254",
+        "neighborhood": "Oblatos",
+        "zipCode": "44700",
+        "phone": "",
+        "atmId": "9604",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29835",
+          "20.635351"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Palenque Tlaquepaque",
+        "address": "Av. Fco. Silva 239",
+        "neighborhood": "Los Altos",
+        "zipCode": "45520",
+        "phone": "",
+        "atmId": "7245",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29887",
+          "20.68964"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oblatos",
+        "address": [
+          "Av. Circunvalacion 2305 L 30-",
+          "Av. Circunvalacion 2350"
+        ],
+        "neighborhood": [
+          "Circunvalalacion Oblatos",
+          "Fracc. Circunval Oblatos"
+        ],
+        "zipCode": "44716",
+        "phone": "",
+        "atmId": [
+          "1127",
+          "9783"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.299965",
+          "20.635836"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Camichines",
+        "address": "Av. Tonala 3325",
+        "neighborhood": "Nueva Central Camionera",
+        "zipCode": "45580",
+        "phone": "",
+        "atmId": "7152",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.29999",
+          "20.65169"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara San",
+        "address": "San Rafael 617",
+        "neighborhood": "Jardines De La Paz",
+        "zipCode": "44860",
+        "phone": "",
+        "atmId": "9847",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.303375",
+          "20.670233"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Felipe Angeles",
+        "address": "Felipe Angeles 356",
+        "neighborhood": "Progreso",
+        "zipCode": "44730",
+        "phone": "",
+        "atmId": "7742",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.30376",
+          "20.644236"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Revolucion",
+        "address": "Revolucion 2242",
+        "neighborhood": "Jardines De La Paz",
+        "zipCode": "45550",
+        "phone": "",
+        "atmId": [
+          "7457",
+          "7458"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.304474",
+          "20.637152"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "16 De Septiembre",
+        "address": "Av. 16 De Septiembre 431 Int 25",
+        "neighborhood": "Centro",
+        "zipCode": "44150",
+        "phone": "",
+        "atmId": "6722",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3046",
+          "20.660133"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "San Andres",
+        "address": "Av. Chamizal 162",
+        "neighborhood": "San Andres",
+        "zipCode": "44810",
+        "phone": "",
+        "atmId": "7179",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.30477",
+          "20.623926"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Ba San Pedrito",
+        "address": "Av. Rio Seco 6",
+        "neighborhood": "Lomas De San Miguel",
+        "zipCode": "45570",
+        "phone": "",
+        "atmId": "3000",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3099",
+          "20.650032"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Ba Revolucion",
+        "address": "Av. Revolucion 720",
+        "neighborhood": "Hidalgo",
+        "zipCode": "45570",
+        "phone": "",
+        "atmId": "3096",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.312675",
+          "20.667173"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Javier Mina",
+        "address": "Av. Javier Mina 1510",
+        "neighborhood": "Sector Libertad",
+        "zipCode": "45136",
+        "phone": "",
+        "atmId": [
+          "5300",
+          "5301"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.313354",
+          "20.677984"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "San Juan Bosco",
+        "address": "Esteban A La Torre S/n",
+        "neighborhood": "San Juan Bosco",
+        "zipCode": "44730",
+        "phone": "",
+        "atmId": [
+          "7455",
+          "7456"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.318794",
+          "20.700182"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Belisario Dominguez",
+        "address": "Belisario Dominguez 2013",
+        "neighborhood": "Belisario Dominguez",
+        "zipCode": "44320",
+        "phone": "",
+        "atmId": [
+          "1757",
+          "4580"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31881",
+          "20.648582"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Mega Com Mex Tlaquepaque",
+        "address": "Av. R�o Nilo S/n",
+        "neighborhood": "Prados Del Nilo",
+        "zipCode": "44840",
+        "phone": "",
+        "atmId": "9602",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31916",
+          "20.568409"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "S.e.c. Molex De Mexico",
+        "address": "Productividad Ote. 305",
+        "neighborhood": "Las Pintas",
+        "zipCode": "45690",
+        "phone": "",
+        "atmId": "7446",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31947",
+          "20.716812"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Hue",
+        "address": "Calz. Independencia 3175",
+        "neighborhood": "Independencia",
+        "zipCode": "44240",
+        "phone": "",
+        "atmId": "9782",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.32031",
+          "20.71471"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza Independencia",
+        "address": "Calz. Independencia 2930",
+        "neighborhood": "La Federecha",
+        "zipCode": "44306",
+        "phone": "",
+        "atmId": "6072",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.32205",
+          "20.621595"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Tapatio",
+        "address": "Textiles 3196",
+        "neighborhood": "Fracc. Alamo Industrial",
+        "zipCode": "45560",
+        "phone": "",
+        "atmId": [
+          "4512",
+          "7690",
+          "9795"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3309",
+          "20.69552"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Calzada",
+        "address": "Calz. Independencia Nte 1383",
+        "neighborhood": "Independencia",
+        "zipCode": "44250",
+        "phone": "",
+        "atmId": [
+          "1527",
+          "1528"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.33415",
+          "20.673399"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Alvaro Obregon",
+        "address": "Javier Mina 450",
+        "neighborhood": "Sector Libertad",
+        "zipCode": "44360",
+        "phone": "",
+        "atmId": "4579",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.33432",
+          "20.673744"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Alvaro Obregon",
+        "address": "Javier Mina 450",
+        "neighborhood": "Centro",
+        "zipCode": "44350",
+        "phone": "",
+        "atmId": "7615",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.334595",
+          "20.660265"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza La Bandera",
+        "address": "Calz. Del Ejercito 663",
+        "neighborhood": "Entro",
+        "zipCode": "44430",
+        "phone": "",
+        "atmId": "6071",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.337494",
+          "20.700615"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Normalistas",
+        "address": "Circunv Div Del Nte 415",
+        "neighborhood": "Normalistas",
+        "zipCode": "44250",
+        "phone": "",
+        "atmId": "5874",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.340324",
+          "20.65463"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Gonzalez Gallo",
+        "address": "Calz. Gonzalez Gallo 535",
+        "neighborhood": "Sector Reforma",
+        "zipCode": "44430",
+        "phone": "",
+        "atmId": [
+          "1229",
+          "1230"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.340614",
+          "20.67683"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Independencia",
+        "address": "Plaza Tapatia Bloque E L 678 Y",
+        "neighborhood": "Sector Hidalgo",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          "1225",
+          "1226"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34431",
+          "20.617496"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Las Juntas",
+        "address": "Av. Gobernador Curiel 4832",
+        "neighborhood": "Miravalle",
+        "zipCode": "47800",
+        "phone": "",
+        "atmId": "9553",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34693",
+          "20.675085"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Pe Guadalajara",
+        "address": "Av. Juarez 237",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          "5186",
+          "5187",
+          "5188",
+          "5975",
+          "9632"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34746",
+          "20.625122"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Las Juntas",
+        "address": [
+          "Calz. Gob. Luis G Curiel 3323",
+          "Calz. Gobernador Luis G Curiel 3323"
+        ],
+        "neighborhood": "2a Zona Industrial",
+        "zipCode": "44970",
+        "phone": "",
+        "atmId": [
+          "4917",
+          "5441",
+          "5656"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34765",
+          "20.703676"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Transito",
+        "address": "Av. Palavicini 230",
+        "neighborhood": "Jardin Allende",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": [
+          "1437",
+          "1438"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347786",
+          "20.683105"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Santuario",
+        "address": "Alcalde 444",
+        "neighborhood": "Sector Hidalgo",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": [
+          "4927",
+          "7737"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34826",
+          "20.692331"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza La Normal",
+        "address": "Av. Alcalde 989 Y 993",
+        "neighborhood": "Barranquitas",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": "7154",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34832",
+          "20.66455"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Sc 16 De Septiembre",
+        "address": "Calz. Independencia 920",
+        "neighborhood": "Centro",
+        "zipCode": "44200",
+        "phone": "",
+        "atmId": "4262",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34911",
+          "20.698536"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Pensiones",
+        "address": "Av. Magisterio 1155",
+        "neighborhood": "Guadalupana",
+        "zipCode": "44290",
+        "phone": "",
+        "atmId": "6096",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35042",
+          "20.735872"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Chedraui Federalismo",
+        "address": "Prol. Federalismo Norte S/n",
+        "neighborhood": "Auditorio",
+        "zipCode": "45190",
+        "phone": "",
+        "atmId": "9454",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35049",
+          "20.677353"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Santa  Monica",
+        "address": "Av. Hidalgo 19",
+        "neighborhood": "Sector Hidalgo",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          "1222",
+          "1223"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3522",
+          "20.675009"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Juarez",
+        "address": "Juarez 873",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": "4059",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35602",
+          "20.69998"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Avila Camacho,jal",
+        "address": "Av. Camacho 1343",
+        "neighborhood": "San Miguel Mezquitan",
+        "zipCode": "44260",
+        "phone": "",
+        "atmId": "9695",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35958",
+          "20.664736"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Ni~os Heroes",
+        "address": "Av. Enrique Diaz De Leon 785",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": "",
+        "atmId": [
+          "1224",
+          "1231"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35961",
+          "20.666897"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Tolsa",
+        "address": "Av. Ni~os Heroes 1506",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": "",
+        "atmId": "4147",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.360146",
+          "20.649744"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Cf Zona Industrial",
+        "address": [
+          "Av. 8 De Julio 1800 A",
+          "Av. 8 De Julio 1800-a"
+        ],
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44940",
+        "phone": "",
+        "atmId": [
+          "3749",
+          "5298",
+          "5750"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36074",
+          "20.64847"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Las Torres",
+        "address": "Av. 8 De Julio S/n",
+        "neighborhood": "Morelos",
+        "zipCode": "44919",
+        "phone": "",
+        "atmId": "6535",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36097",
+          "20.735771"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farmacias Benavides Tabac",
+        "address": "Av. Tabachines 1820",
+        "neighborhood": "Tabachines",
+        "zipCode": "45188",
+        "phone": "",
+        "atmId": "4013",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36152",
+          "20.540718"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Plaza Toluquilla",
+        "address": "Av. Concepcion 6800 L 28-",
+        "neighborhood": "Fracc. San Jose Del Valle",
+        "zipCode": "45654",
+        "phone": "",
+        "atmId": [
+          "1754",
+          "2817",
+          "4509"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.362366",
+          "20.644564"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Industriales Gdl",
+        "address": [
+          "Av. 08 De Julio 2278",
+          "Av. 8  De Julio 2278"
+        ],
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44940",
+        "phone": "",
+        "atmId": [
+          "1062",
+          "9696"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36558",
+          "20.664135"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "S.e.c. Laboratorios Pisa",
+        "address": "Av. Espa~a 1840",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": "",
+        "atmId": "6687",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36622",
+          "20.674631"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Cf Vallarta",
+        "address": "Av. Vallarta 1369 Pb",
+        "neighborhood": "Sector Juarez",
+        "zipCode": "44160",
+        "phone": "",
+        "atmId": [
+          "5190",
+          "5512"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36639",
+          "20.635096"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Ba 8 De Julio",
+        "address": "Av. 8 De Julio 2759",
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44900",
+        "phone": "",
+        "atmId": "9488",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36699",
+          "20.711138"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Atemajac",
+        "address": "Av. Fidel Velazquez 1550 L 41",
+        "neighborhood": "Jardines Del Contry",
+        "zipCode": "44218",
+        "phone": "",
+        "atmId": "3950",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36724",
+          "20.633036"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": [
+          "Suc 8 De Julio",
+          "Suc. 8 De Julio"
+        ],
+        "address": "Av. 8 De Julio 2945",
+        "neighborhood": "Fracc. 18 De Marzo",
+        "zipCode": "44960",
+        "phone": "",
+        "atmId": [
+          "3935",
+          "8162"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36768",
+          "20.727568"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farmacias Guadalajara Con",
+        "address": "Manuel M Dieguez 2963",
+        "neighborhood": "Constitucion",
+        "zipCode": "45180",
+        "phone": "",
+        "atmId": "9616",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.367966",
+          "20.635794"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Laboratorios Pisa",
+        "address": "Calle 7 1308",
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44930",
+        "phone": "",
+        "atmId": [
+          "6974",
+          "7102"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36807",
+          "20.728563"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Mercado Bola",
+        "address": "Av. Gral Manuel M Dieguez 427",
+        "neighborhood": "Constitucion",
+        "zipCode": "45180",
+        "phone": "",
+        "atmId": "1072",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36814",
+          "20.666672"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Chapultepec",
+        "address": "Chapultepec 625",
+        "neighborhood": "Moderna",
+        "zipCode": "04419",
+        "phone": "",
+        "atmId": "3824",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37311",
+          "20.693842"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Americas Gdl",
+        "address": "Av. Americas 918",
+        "neighborhood": "Ayuntamiento",
+        "zipCode": "44620",
+        "phone": "",
+        "atmId": "9691",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37348",
+          "20.68542"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Sta. Teresita",
+        "address": "Av. Americas 475",
+        "neighborhood": "Ladron De Guevara",
+        "zipCode": "44650",
+        "phone": "",
+        "atmId": [
+          "6346",
+          "7082"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37482",
+          "20.654665"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Abastos",
+        "address": "Lazaro Cardenas 2440",
+        "neighborhood": "Del Fresno",
+        "zipCode": "44909",
+        "phone": "",
+        "atmId": [
+          "5295",
+          "5296"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37548",
+          "20.713736"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sc Avila Camacho",
+        "address": "Manuel Avila Camacho 2770",
+        "neighborhood": "Fraccionamiento Seatle",
+        "zipCode": "45140",
+        "phone": "",
+        "atmId": "4340",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37551",
+          "20.712542"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Plaza Patria",
+        "address": "C. C. Plaza Patria S/n",
+        "neighborhood": "Residencial Patria",
+        "zipCode": "24150",
+        "phone": "",
+        "atmId": [
+          "5010",
+          "5011",
+          "5511",
+          "6025"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.375626",
+          "20.629793"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Pol",
+        "address": "Longinos Cadena 2133",
+        "neighborhood": "Polanco",
+        "zipCode": "44960",
+        "phone": "",
+        "atmId": "9407",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38078",
+          "19.556894"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Tuxpan Jalisco",
+        "address": "Portal Morelos 10",
+        "neighborhood": "Centro",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": "3042",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38307",
+          "20.739162"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": [
+          "San Isidro",
+          "Sin Isidro"
+        ],
+        "address": "Periferico Nte 10 L-c",
+        "neighborhood": "Belenes U De G",
+        "zipCode": "45150",
+        "phone": "",
+        "atmId": [
+          "3515",
+          "4518"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38538",
+          "20.677794"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Pe Cf A Lopez Mateos",
+        "address": "Av. A Lopez Mateos Nte 161",
+        "neighborhood": "Ladron De Guevara",
+        "zipCode": "44680",
+        "phone": "",
+        "atmId": [
+          "5463",
+          "5465"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385994",
+          "20.697805"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": [
+          "Guadalajara",
+          "Zapopan"
+        ],
+        "name": "Providencia",
+        "address": "Pablo Neruda 2953",
+        "neighborhood": "Fracc Providencia",
+        "zipCode": "44310",
+        "phone": "",
+        "atmId": [
+          "5290",
+          "5510"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3864",
+          "20.666536"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Jardines Del Bosque",
+        "address": "Av. Ni~os Heroes 2891",
+        "neighborhood": "Jardines Del Bosque",
+        "zipCode": "44520",
+        "phone": "",
+        "atmId": [
+          "1227",
+          "1228"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38692",
+          "20.647894"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza Arboledas",
+        "address": "Av. Arboledas 2500",
+        "neighborhood": "Rinc De L Arboledas",
+        "zipCode": "44530",
+        "phone": "",
+        "atmId": "3851",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.386986",
+          "20.647083"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Ba Arboledas",
+        "address": "Av. Arboledas 2500",
+        "neighborhood": "Bosques De La Victoria",
+        "zipCode": "44540",
+        "phone": "",
+        "atmId": "1172",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38721",
+          "20.52118"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oxxo Santa Fe",
+        "address": "Blvd. Santa Fe 99-a",
+        "neighborhood": "Santa Fe",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": "3562",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38847",
+          "20.641796"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Cruz Sur",
+        "address": "Av. Cruz Del Sur 3689",
+        "neighborhood": "Jardines De La Cruz",
+        "zipCode": "44950",
+        "phone": "",
+        "atmId": "1849",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38857",
+          "20.721209"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Basilica",
+        "address": "Av. Hidalgo 265",
+        "neighborhood": "Centro",
+        "zipCode": "45100",
+        "phone": "",
+        "atmId": [
+          "3744",
+          "4597"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.3899",
+          "20.620823"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "El Sauz",
+        "address": "Colon 4030",
+        "neighborhood": "El Sauz",
+        "zipCode": "45638",
+        "phone": "",
+        "atmId": [
+          "6314",
+          "6810"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39136",
+          "20.674248"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Universidad",
+        "address": "Av. Vallarta 1014",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": "3850",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39273",
+          "20.68467"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": [
+          "Express Monraz",
+          "Monraz"
+        ],
+        "address": "Av. Manuel Acu~a 3073",
+        "neighborhood": "Juan Manuel",
+        "zipCode": "44680",
+        "phone": "",
+        "atmId": [
+          "3703",
+          "3705"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.393005",
+          "20.641796"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farmacias Guadalajara Lap",
+        "address": "Av. Lapizlazuli 2644",
+        "neighborhood": "Residencial Victoia",
+        "zipCode": "44580",
+        "phone": "",
+        "atmId": "4281",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.395386",
+          "20.74071"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Arcos Zapopan",
+        "address": [
+          "Lateral Periferico S/n",
+          "Periferico S/n"
+        ],
+        "neighborhood": "Arcos Zapopan Ii",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": [
+          "2824",
+          "6647"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39701",
+          "20.75269"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Oxxo Federalistas",
+        "address": "Av. Federalistas 2380-2",
+        "neighborhood": "Jardines Del Valle",
+        "zipCode": "45136",
+        "phone": "",
+        "atmId": "3036",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.398125",
+          "20.65932"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Las Rosas",
+        "address": "Av. Lopez Mateos Sur 1957",
+        "neighborhood": "Chapalita",
+        "zipCode": "45046",
+        "phone": "",
+        "atmId": "6224",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39813",
+          "20.635248"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Cruz Del Sur",
+        "address": "Av. Cruz Del Sur 3131",
+        "neighborhood": "Lomas De La Victoria",
+        "zipCode": "45608",
+        "phone": "",
+        "atmId": "6608",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39877",
+          "20.678688"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": [
+          "Plaza Mexico",
+          "Suc Plaza Mexico"
+        ],
+        "address": "Av. Vallarta 3341",
+        "neighborhood": "Vallarta San Jose",
+        "zipCode": "44690",
+        "phone": "",
+        "atmId": [
+          "4598",
+          "5768"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.39945",
+          "20.678703"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Sc Plaza Mexico",
+        "address": "Av. Mexico 3300",
+        "neighborhood": "Fracc. Monraz",
+        "zipCode": "44690",
+        "phone": "",
+        "atmId": "1087",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40022",
+          "20.60518"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonala",
+        "name": "Centro Sur",
+        "address": "Periferico Sur S/n",
+        "neighborhood": "Sta Maria Tequepexpan",
+        "zipCode": "45601",
+        "phone": "",
+        "atmId": [
+          "1888",
+          "2816",
+          "4339"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.400475",
+          "20.603788"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Sc Colon",
+        "address": "Periferico Sur 7835",
+        "neighborhood": "Santa Ma Tequepexpan",
+        "zipCode": "45601",
+        "phone": "",
+        "atmId": "1187",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40068",
+          "20.741844"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sec Jabil Circuit",
+        "address": "Av. Valdepe~as 1993",
+        "neighborhood": "Arcos De Zapopan",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": "8845",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40146",
+          "20.652525"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Plaza Del Sol",
+        "address": "C. C. Plaz Del Sol L 1 Zona A",
+        "neighborhood": "Cd. Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": "3541",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.401855",
+          "20.652687"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Pe Plaza Del Sol",
+        "address": "Av. Lopez Mateos Sur 1418",
+        "neighborhood": "Cd Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": [
+          "5198",
+          "5199"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40364",
+          "20.648779"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sub Plaza Del Sol",
+        "address": "Zona G L 1 Y 2",
+        "neighborhood": "C. C. Pza. Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": "7782",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40611",
+          "20.675547"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Play City Zapopan",
+        "address": "Av. Vallarta 3959",
+        "neighborhood": "Don Bosco Vallarta",
+        "zipCode": "45049",
+        "phone": "",
+        "atmId": "6138",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40676",
+          "20.709211"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Plaza Acueducto",
+        "address": "Av. Acueducto 6050",
+        "neighborhood": "Lomas Del Bosque",
+        "zipCode": "45118",
+        "phone": "",
+        "atmId": "6257",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40712",
+          "20.74145"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7-eleven Arcos",
+        "address": "Arco Del Triunfo 992",
+        "neighborhood": "Arcos De Zapopan",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": "8185",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.408066",
+          "20.709335"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": [
+          "Autobco Pta De Hierro",
+          "Puerta De Hierro"
+        ],
+        "address": "Av. Patria 1744",
+        "neighborhood": [
+          "Fracc Santa Isabel",
+          "Fracc. Sta. Isabel"
+        ],
+        "zipCode": "45110",
+        "phone": "",
+        "atmId": [
+          "3212",
+          "6312"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40834",
+          "20.64082"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Zapopan",
+        "address": "Juan Gil Preciado 84",
+        "neighborhood": "Zapopan",
+        "zipCode": "45167",
+        "phone": "",
+        "atmId": [
+          "7502",
+          "7503"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.40963",
+          "20.67294"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Camino Real",
+        "address": "Av. Ni~o Obrero 45",
+        "neighborhood": "Fracc. Camino Real",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": [
+          "1655",
+          "1656"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.409645",
+          "20.666159"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sc Ni~o Obrero",
+        "address": "Av. Ni~o Obrero 1551",
+        "neighborhood": "Chapalita",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": "4631",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41027",
+          "20.71057"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Express Acueducto",
+        "address": "Av. Acueducto 6050 L 15",
+        "neighborhood": "Lomas Del Bosque",
+        "zipCode": "45118",
+        "phone": "",
+        "atmId": "2295",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41067",
+          "20.639273"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Cf Sur",
+        "address": "Av. A Lopez Mateos Norte 4145",
+        "neighborhood": "La Calma",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": "5293",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41101",
+          "20.708975"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sup Puerta De Hierro",
+        "address": "Av. Patria 2051",
+        "neighborhood": "Fracc. Real Acueducto",
+        "zipCode": "45116",
+        "phone": "",
+        "atmId": "3196",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41245",
+          "20.636734"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Office Depot Lopez Mateos",
+        "address": "Av. Lopez Mateos 3476",
+        "neighborhood": "La Calma",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": "7844",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41333",
+          "20.708628"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Play City Puerta De Hierr",
+        "address": "Blvd. Puerta De Hierro S/n",
+        "neighborhood": "Puerta De Hierro",
+        "zipCode": "45116",
+        "phone": "",
+        "atmId": "2246",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41344",
+          "20.708628"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Acdi Puerta De Hierrro",
+        "address": "Cond. Residencial Puerta De Hierro 56",
+        "neighborhood": "Puerta De Hierro",
+        "zipCode": "45110",
+        "phone": "",
+        "atmId": "1123",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41361",
+          "20.705654"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sc Patria",
+        "address": "Paseo Royal Country 455",
+        "neighborhood": "Royal Country",
+        "zipCode": "45116",
+        "phone": "",
+        "atmId": "8060",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41394",
+          "20.691572"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Universidad",
+        "address": "Av. Pablo Neruda 4341",
+        "neighborhood": "Villa Universitaria",
+        "zipCode": "45150",
+        "phone": "",
+        "atmId": "6808",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41514",
+          "20.73065"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Santa Margarita",
+        "address": "Av. Santa Nmargarita Lt 27 Mz 5",
+        "neighborhood": "Tuzania",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": [
+          "1155",
+          "4521",
+          "9793"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41774",
+          "20.71975"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Plaza Andares",
+        "address": "Blvd. Puerta De Hierro 4965",
+        "neighborhood": "Puerta De Hierro",
+        "zipCode": "45116",
+        "phone": "",
+        "atmId": "4231",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41842",
+          "20.638975"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sup Mariano Otero",
+        "address": "Av. Mariano Otero 3386",
+        "neighborhood": "Fracc. El Colli",
+        "zipCode": "45036",
+        "phone": "",
+        "atmId": "1040",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41916",
+          "20.689636"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Colomos",
+        "address": "Av. Patria 734",
+        "neighborhood": "Universidad De Guadalajara",
+        "zipCode": "44214",
+        "phone": "",
+        "atmId": [
+          "5078",
+          "5801"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42031",
+          "20.661705"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Univa",
+        "address": "Pintores 4",
+        "neighborhood": "Jardines De Guadalupe",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": "8907",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.420906",
+          "20.624083"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Las Fuentes",
+        "address": "Av. Lopez Mateos Sur 5790",
+        "neighborhood": "Fracc. Arboledas",
+        "zipCode": "45080",
+        "phone": "",
+        "atmId": "6471",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42197",
+          "20.621662"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Com Mex Las Fuentes",
+        "address": "Av. Lopez Mateos Sur 6061",
+        "neighborhood": "Las Fuentes",
+        "zipCode": "45080",
+        "phone": "",
+        "atmId": "1870",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42251",
+          "20.655857"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Tepeyac",
+        "address": "Av. Tepeyac 1347",
+        "neighborhood": "Mirador Del Sol",
+        "zipCode": "45054",
+        "phone": "",
+        "atmId": [
+          "1318",
+          "1319"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42291",
+          "20.655922"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Mirador",
+        "address": "Patria 1150",
+        "neighborhood": "Mirador Del Sol",
+        "zipCode": "45054",
+        "phone": "",
+        "atmId": "7335",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42578",
+          "20.63358"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Copernico",
+        "address": "Av. Mariano Otero 4419",
+        "neighborhood": [
+          "Arboledas",
+          "Fracc. Arboledas"
+        ],
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": [
+          "4920",
+          "7052",
+          "8746"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.426315",
+          "20.634903"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farmacias Guadalajara Zap",
+        "address": "Av. Veldepe~as 2382",
+        "neighborhood": "Lomas De Zapopan",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": "9856",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42677",
+          "20.649029"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Office Depot Cordilleras",
+        "address": "Av. Manule J. Clouthier 888",
+        "neighborhood": "Jardines De Guadalupe",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": "3373",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42846",
+          "20.679247"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": [
+          "Costco Gdl Ii",
+          "Costco Guadalajara"
+        ],
+        "address": "Av. Vallarta 4775",
+        "neighborhood": "Camichines Vallarta",
+        "zipCode": "45020",
+        "phone": "",
+        "atmId": [
+          "2437",
+          "5895"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.429245",
+          "20.675457"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Mega Com Mex Guadalajara",
+        "address": "Rafael Sanzio 55",
+        "neighborhood": "Estancia",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": "5916",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42931",
+          "20.679913"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Galerias",
+        "address": "Av. Rafael Sanzio 55",
+        "neighborhood": "La Estancia",
+        "zipCode": "45020",
+        "phone": "",
+        "atmId": [
+          "3610",
+          "4051"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43223",
+          "20.65392"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Plaza Guadalupe",
+        "address": "Nicolas Copernico 1831",
+        "neighborhood": "Chapalita",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": "6609",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43233",
+          "20.65609"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farmacias Guadalajara Cop",
+        "address": "Copernico 347",
+        "neighborhood": "Paseos Del Sol",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": "9496",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43299",
+          "20.64238"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Colli",
+        "address": [
+          "Volcan Baru 2350 A",
+          "Volcan Baru 2350-a"
+        ],
+        "neighborhood": "Fracc. Colli",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": [
+          "3641",
+          "3991"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43318",
+          "20.679014"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sc Vallarta",
+        "address": "Av. Rafael Sanzio S/n",
+        "neighborhood": "La Estancia",
+        "zipCode": "45018",
+        "phone": "",
+        "atmId": "6381",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43821",
+          "20.658989"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Guadalupe Inn",
+        "address": [
+          "Av. Guadalupe 6160 L3 Mz",
+          "Av.guadalupe 6160 L 3 M"
+        ],
+        "neighborhood": "Fracc. Residencial Plaza Guadalupe",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": [
+          "1945",
+          "3655"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.439766",
+          "20.693537"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sup Naciones Unidas",
+        "address": "Av. De Los Virreyes 565",
+        "neighborhood": "Residencial Virreyes",
+        "zipCode": "45117",
+        "phone": "",
+        "atmId": "9510",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4434",
+          "20.727608"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Valle Real",
+        "address": "Paseo San Arturo Norte 114",
+        "neighborhood": "Valle Real",
+        "zipCode": "45019",
+        "phone": "",
+        "atmId": "8867",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44429",
+          "20.587296"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco",
+        "name": "Sc Lopez Mateos",
+        "address": "Prolongacion Lopez Mateos Sur 1501",
+        "neighborhood": "La Tijera",
+        "zipCode": "45647",
+        "phone": "",
+        "atmId": "4839",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44525",
+          "20.550222"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Santa Anita",
+        "address": "Ramon Corona 175 A",
+        "neighborhood": "Santa Anita Centro",
+        "zipCode": "45600",
+        "phone": "",
+        "atmId": "6485",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44662",
+          "20.474525"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco",
+        "name": "Tlajomulco",
+        "address": "Calle Juarez 193",
+        "neighborhood": "Centro",
+        "zipCode": "45640",
+        "phone": "",
+        "atmId": "3600",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.44834",
+          "20.600685"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Bugambilias",
+        "address": "Cc Bugambilias S/n",
+        "neighborhood": "Ciudad Bugambilias",
+        "zipCode": "44960",
+        "phone": "",
+        "atmId": "9667",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.448524",
+          "20.5814"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco",
+        "name": "Mega Com Mex Gdl Nueva Ga",
+        "address": "Blvd. Adolfo Lopez Mateos S/n",
+        "neighborhood": "Fracc Nueva Galicia",
+        "zipCode": "45645",
+        "phone": "",
+        "atmId": "7573",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.45166",
+          "20.692223"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Concentro",
+        "address": "Av. Vallarta 653 L. E7",
+        "neighborhood": "Ciudad Granjas",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": "1258",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.45245",
+          "20.727541"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Base Aerea Zapopan",
+        "address": "Camino A Base Aerea 2900",
+        "neighborhood": "Fraccionamiento La Mojonera",
+        "zipCode": "45019",
+        "phone": "",
+        "atmId": "7993",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.453186",
+          "20.725681"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Combu Express",
+        "address": "Carr. Guadalajara-nogales 6755",
+        "neighborhood": "Fracc. Sn Juan De Ocotan",
+        "zipCode": "45019",
+        "phone": "",
+        "atmId": "3917",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.45984",
+          "20.565254"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": [
+          "Tlajomulco",
+          "Zapopan"
+        ],
+        "name": [
+          "Manantial",
+          "Suc Manantial"
+        ],
+        "address": [
+          "Lopez Mateos Sur 5560",
+          "Lopez Mateos Sur 5560 L 17"
+        ],
+        "neighborhood": "Santa Anita",
+        "zipCode": "45645",
+        "phone": "",
+        "atmId": [
+          "3506",
+          "4337"
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "municipality",
+          "name",
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.47792",
+          "20.795444"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Tesistan",
+        "address": "Valle De Tesistan 37 Y 45",
+        "neighborhood": "Tesistan",
+        "zipCode": "45200",
+        "phone": "",
+        "atmId": "3748",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38989",
+          "20.620823"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "El Sauz",
+        "address": "Ave. Colon Local Bloque Bd 0",
+        "neighborhood": "El Carmen",
+        "zipCode": "44980",
+        "phone": "",
+        "atmId": "null",
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4162",
+          "20.632769"
+        ]
+      },
+      "properties": {
+        "bank": "Banamex",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sab Cruz D",
+        "address": "Av. Cruz Del Sur 3131",
+        "neighborhood": "Lomas De La Victoria",
+        "zipCode": "45608",
+        "phone": "",
+        "atmId": "null",
+        "openingHours": {},
+        "isVerified": false
+      }
+    }
+  ]
+}
