@@ -7,6 +7,9 @@ var Q = require('q'),
     _ = require('underscore'),
     nomnom = require('nomnom'),
     sleep = require('sleep'),
+    util = require('util'),
+    Helper = require('./Helper'),
+    AtmHelper = require('./AtmHelper'),
     Santander;
 
 _.str = require('underscore.string');
@@ -20,45 +23,12 @@ Santander = {
   features: {},
   hashes: {},
   coordinates: {},
-  states: [
-    'AGUASCALIENTES',
-    'BAJA CALIFORNIA',
-    'BAJA CALIFORNIA SUR',
-    'CAMPECHE',
-    'CHIAPAS',
-    'CHIHUAHUA',
-    'COAHUILA',
-    'COLIMA',
-    'DISTRITO FEDERAL',
-    'DURANGO',
-    'ESTADO DE MEXICO',
-    'GUANAJUATO',
-    'GUERRERO',
-    'HIDALGO',
-    'JALISCO',
-    'MICHOACAN',
-    'MORELOS',
-    'NAYARIT',
-    'NUEVO LEON',
-    'OAXACA',
-    'PUEBLA',
-    'QUERETARO',
-    'QUINTANA ROO',
-    'SAN LUIS POTOSI',
-    'SINALOA',
-    'SONORA',
-    'TABASCO',
-    'TAMAULIPAS',
-    'TLAXCALA',
-    'VERACRUZ',
-    'YUCATAN',
-    'ZACATECAS'
-  ],
+  baseUrl: 'https://servicios.santander.com.mx/sucursales2012/MapaAJAX.php?option1=true&option2=true&' +
+    'option3=true&option4=true&estado=%s',
 
   // Get municipalities this way:
   getUrl: function (state, municipality, neighborhood) {
-    var url = 'https://servicios.santander.com.mx/sucursales2012/MapaAJAX.php?option1=true&option2=true&' +
-      'option3=true&option4=true&estado=' + encodeURIComponent(state);
+    var url = util.format(this.baseUrl, encodeURIComponent(state));
 
     if(municipality) {
       url += '&municipio=' + encodeURIComponent(municipality);
@@ -102,52 +72,95 @@ Santander = {
 
     console.log('Retrieving municipality: ' + municipality);
 
-    request.get(Santander.getUrl(state, municipality),
-      function (error, response, body) {
-        var neighborhoods = Santander.getMatches(body, Santander.optionRegex);
-
-        for(var k=0; k<neighborhoods.length; k++) {
-          promises.push(Santander.getByNeighborhood(state, municipality, neighborhoods[k]));
-        }
-
-        Q.all(promises).then(function () { d.resolve(); });
+    Santander.getNeighborhoods(state, municipality).then(function (neighborhoods) {
+      neighborhoods.forEach(function (neighborhood) {
+        promises.push(Santander.getByNeighborhood(state, municipality, neighborhood));
+        sleep.sleep(1);
       });
+
+      Q.all(promises).then(function () { d.resolve(); });
+    });
 
     return d.promise;
   },
 
   getByNeighborhood: function (state, municipality, neighborhood) {
-    var d = Q.defer(),
-      url = Santander.getUrl(state, municipality, neighborhood);
+    var defer = Q.defer(),
+        type,
+        realType,
+        feature;
 
-    console.log('Retrieving neighborhood: ' + neighborhood);
+    this.doGetByNeighborhood(state, municipality, neighborhood).then(function (atms) {
+      for(var i=0; i<atms.markers.length; i++) {
+        type = atms.markers[i].tipo.toLowerCase();
+        realType = (type === 'cajero' ? 'atm' : 'other');
+        feature = Santander.toFeature(state, municipality, atms.markers[i]);
+
+        AtmHelper.addToState(Helper.toSpinalCase(state), realType, feature);
+      }
+
+      defer.resolve();
+    });
+
+    return defer.promise;
+  },
+
+  doGetByNeighborhood: function (state, municipality, neighborhood, defer) {
+    var url = Santander.getUrl(state, municipality, neighborhood);
+
+    if(!defer) {
+      defer = Q.defer();
+    }
+
+    console.log('Retrieving neighborhood:', neighborhood);
 
     request.get(url, function (error, response, body) {
-        var json,
-            atms,
-            type,
-            realType,
-            feature;
+      var json,
+          atms;
 
+      try {
         json = Santander.getMatches(body, Santander.mapDataRegex);
-
-        // TODO(thewarpaint): Handle network errors and retry logic.
         atms = JSON.parse(json);
 
-        for(var i=0; i<atms.markers.length; i++) {
-          type = atms.markers[i].tipo.toLowerCase();
-          realType = (type === 'cajero' ? 'atm' : 'other');
-          feature = Santander.toFeature(state, municipality, atms.markers[i]);
+        defer.resolve(atms);
+      } catch (e) {
+        console.log('Failed:', state, municipality, neighborhood, error);
+        Santander.doGetByNeighborhood(state, municipality, neighborhood, defer);
+      }
+    });
 
-          Santander.addToState(Santander.spinalCase(state), realType, feature);
-        }
+    return defer.promise;
+  },
 
-        d.resolve();
-      });
+  getMunicipalities: function (state) {
+  },
 
-    sleep.sleep(1);
+  // Leaving this here in case any preprocessing is needed in the future
+  getNeighborhoods: function (state, municipality) {
+    return Santander.doGetNeighborhoods(state, municipality);
+  },
 
-    return d.promise;
+  doGetNeighborhoods: function (state, municipality, defer) {
+    var url = Santander.getUrl(state, municipality);
+
+    if(!defer) {
+      defer = Q.defer();
+    }
+
+    console.log('Retrieving neighborhoods for:', municipality);
+
+    request.get(url, function (error, response, body) {
+      var neighborhoods = Santander.getMatches(body, Santander.optionRegex);
+
+      if(neighborhoods.length === 0) {
+        console.log('Failed:', state, municipality, error);
+        Santander.doGetNeighborhoods(state, municipality, defer);
+      } else {
+        defer.resolve(neighborhoods);
+      }
+    });
+
+    return defer.promise;
   },
 
   /*
@@ -292,99 +305,6 @@ Santander = {
     }
   },
 
-  initState: function (state) {
-    Santander.features[state] = {};
-    Santander.hashes[state] = {};
-    Santander.coordinates[state] = {};
-  },
-
-
-  initType: function (state, type) {
-    Santander.features[state][type] = {
-      type: 'FeatureCollection',
-      features: []
-    };
-
-    Santander.hashes[state][type] = [];
-    Santander.coordinates[state][type] = {};
-  },
-
-  // TODO(thewarpaint): Move to global utility file
-  spinalCase: function (string) {
-    return string.toLowerCase().replace(/\s+/, '-');
-  },
-
-  addToState: function (state, type, feature) {
-    var hash = md5(JSON.stringify(feature)),
-      coordinatesKey = feature.geometry.coordinates.join(','),
-      oldFeature;
-
-    if(!Santander.features[state]) {
-      Santander.initState(state);
-    }
-
-    if(!Santander.features[state][type]) {
-      Santander.initType(state, type);
-    }
-
-    if(Santander.hashes[state][type].indexOf(hash) === -1) {
-      if(!Santander.coordinates[state][type][coordinatesKey]) {
-        Santander.features[state][type].features.push(feature);
-        Santander.hashes[state][type].push(hash);
-        Santander.coordinates[state][type][coordinatesKey] = feature;
-      } else {
-        oldFeature = Santander.coordinates[state][type][coordinatesKey];
-
-        console.log('Duplicated coordinates for ATM: ', oldFeature.properties.name);
-
-        if(!Santander.doesPropertyMatch(oldFeature, feature, 'municipality')) {
-          Santander.addProperty(oldFeature, feature, 'municipality');
-
-          console.log('ATM municipality doesn\'t match:', feature.properties.municipality, ',',
-            oldFeature.properties.municipality);
-
-          Santander.addIssue(oldFeature, 'municipality');
-        }
-
-        if(!Santander.doesPropertyMatch(oldFeature, feature, 'name')) {
-          Santander.addProperty(oldFeature, feature, 'name');
-
-          console.log('ATM name doesn\'t match:', feature.properties.name, ',',
-            oldFeature.properties.name);
-
-          Santander.addIssue(oldFeature, 'name');
-        }
-
-        if(!Santander.doesPropertyMatch(oldFeature, feature, 'atmId')) {
-          Santander.addProperty(oldFeature, feature, 'atmId');
-
-          console.log('ATM id doesn\'t match, branch:', feature.properties.branchId, ', id:',
-            oldFeature.properties.atmId);
-
-          Santander.addIssue(oldFeature, 'id');
-        }
-
-        if(!Santander.doesPropertyMatch(oldFeature, feature, 'address')) {
-          Santander.addProperty(oldFeature, feature, 'address');
-
-          console.log('ATM address doesn\'t match:', feature.properties.name, ',',
-            oldFeature.properties.address);
-
-          Santander.addIssue(oldFeature, 'address');
-        }
-
-        if(!Santander.doesPropertyMatch(oldFeature, feature, 'neighborhood')) {
-          Santander.addProperty(oldFeature, feature, 'neighborhood');
-
-          console.log('ATM neighborhood doesn\'t match:', feature.properties.name, ',',
-            oldFeature.properties.neighborhood);
-
-          Santander.addIssue(oldFeature, 'neighborhood');
-        }
-      }
-    }
-  },
-
   makeItRain: function () {
     _.each(Santander.features, function (types, state) {
       _.each(types, function (featureColl, type) {
@@ -418,6 +338,13 @@ Santander = {
           position: 2,
           abbr: 'n',
           help: 'Neighborhood (must belong to the specified state and municipality)'
+        },
+        list: {
+          abbr: 'l',
+          flag: true,
+          help: 'Will display the possible values for state if no options are passed, the possible ' +
+            'values for municipality if stateId is provided, or the possible values for neighborhood if ' +
+            'state and municipality are provided'
         }
       }).parse();
 
@@ -429,19 +356,28 @@ Santander = {
       promiseArray = [],
       options = Santander.getConsoleOptions();
 
-    if(options.state) {
-      if(options.municipality) {
-        if(options.neighborhood) {
-          promise = Santander.getByNeighborhood(options.state, options.municipality, options.neighborhood);
-        } else {
-          _.each(options.municipality, function (municipality) {
-            promiseArray.push(Santander.getByMunicipality(options.state, municipality));
-          });
-
-          promise = Q.all(promiseArray);
-        }
+  AtmHelper.bank = Santander;
+    if(options.list) {
+      if(options.stateId) {
+        this.listMunicipalities(options.stateId);
       } else {
-        promise = Santander.getByState(options.state);
+        this.listStates();
+      }
+    } else {
+      if(options.state) {
+        if(options.municipality) {
+          if(options.neighborhood) {
+            promise = Santander.getByNeighborhood(options.state, options.municipality, options.neighborhood);
+          } else {
+            _.each(options.municipality, function (municipality) {
+              promiseArray.push(Santander.getByMunicipality(options.state, municipality));
+            });
+
+            promise = Q.all(promiseArray);
+          }
+        } else {
+          promise = Santander.getByState(options.state);
+        }
       }
     }
 
