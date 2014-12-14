@@ -96,7 +96,7 @@ Banamex = {
     var states = {};
 
     try {
-      states = JSON.parse(fs.readFileSync('./banamex-states.json', 'utf8'));
+      states = JSON.parse(fs.readFileSync('./states-banamex.json', 'utf8'));
     } catch (e) {}
 
     return Q.when(states);
