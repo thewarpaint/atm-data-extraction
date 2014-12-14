@@ -1,6 +1,7 @@
 /**
  * Helper for ATM related functions.
  */
+'use strict';
 
 var md5 = require('md5'),
     util = require('util'),
@@ -45,12 +46,14 @@ AtmHelper = {
   },
 
   doesPropertyMatch: function (oldFeature, feature, propertyName) {
-    if(!oldFeature.properties[propertyName]) {
-      throw new Error('Property ' + propertyName + ' does not exist on oldFeature parameter.');
+    if(typeof oldFeature.properties[propertyName] === 'undefined') {
+      throw new Error('Property ' + propertyName + ' does not exist on oldFeature parameter: ' +
+        JSON.stringify(oldFeature));
     }
 
-    if(!feature.properties[propertyName]) {
-      throw new Error('Property ' + propertyName + ' does not exist on feature parameter.');
+    if(typeof feature.properties[propertyName] === 'undefined') {
+      throw new Error('Property ' + propertyName + ' does not exist on feature parameter: ' +
+        JSON.stringify(feature));
     }
 
     if(Array.isArray(oldFeature.properties[propertyName])) {
@@ -64,20 +67,24 @@ AtmHelper = {
    * Add a property from a feature to another one. If the property is not yet an array, convert it.
    */
   addProperty: function (oldFeature, feature, propertyName) {
-    if(!oldFeature.properties[propertyName]) {
-      throw new Error('Property ' + propertyName + ' does not exist on oldFeature parameter.');
+    if(typeof oldFeature.properties[propertyName] === 'undefined') {
+      throw new Error('Property ' + propertyName + ' does not exist on oldFeature parameter: ' +
+        JSON.stringify(oldFeature));
     }
 
-    if(!feature.properties[propertyName]) {
-      throw new Error('Property ' + propertyName + ' does not exist on feature parameter.');
+    if(typeof feature.properties[propertyName] === 'undefined') {
+      throw new Error('Property ' + propertyName + ' does not exist on feature parameter: ' +
+        JSON.stringify(feature));
     }
 
-    if(!Array.isArray(oldFeature.properties[propertyName])) {
-      oldFeature.properties[propertyName] = [oldFeature.properties[propertyName]];
-    }
+    if(feature.properties[propertyName] !== '') {
+      if(!Array.isArray(oldFeature.properties[propertyName])) {
+        oldFeature.properties[propertyName] = [oldFeature.properties[propertyName]];
+      }
 
-    oldFeature.properties[propertyName].push(feature.properties[propertyName]);
-    oldFeature.properties[propertyName].sort();
+      oldFeature.properties[propertyName].push(feature.properties[propertyName]);
+      oldFeature.properties[propertyName].sort();
+    }
 
     return oldFeature;
   },
