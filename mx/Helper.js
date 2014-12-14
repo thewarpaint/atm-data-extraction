@@ -6,7 +6,7 @@ var Helper;
 
 Helper = {
   toSpinalCase: function (string) {
-    return string.toLowerCase().replace(/\s+/, '-');
+    return string.toLowerCase().replace(/\s+/g, '-');
   }
 };
 
