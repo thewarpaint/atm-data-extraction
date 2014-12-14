@@ -356,7 +356,8 @@ Santander = {
       promiseArray = [],
       options = Santander.getConsoleOptions();
 
-  AtmHelper.bank = Santander;
+    AtmHelper.bank = Santander;
+
     if(options.list) {
       if(options.stateId) {
         this.listMunicipalities(options.stateId);
