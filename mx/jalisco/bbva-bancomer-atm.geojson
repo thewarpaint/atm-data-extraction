@@ -1,0 +1,5431 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.178",
+          "20.5192"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "El Salto",
+        "name": "Suc El Salto Jalisco",
+        "address": "Ramon Corona 23",
+        "neighborhood": "Centro",
+        "zipCode": "45681",
+        "phone": "",
+        "atmId": [
+          231,
+          8719
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.243",
+          "20.623"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonalá",
+        "name": "Suc Tonala Zaragoza",
+        "address": "Zaragoza 46",
+        "neighborhood": "Centro",
+        "zipCode": "45400",
+        "phone": "",
+        "atmId": [
+          122,
+          2432
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.266",
+          "20.6307"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonalá",
+        "name": "Suc Loma Dorada",
+        "address": "Paseo Loma Sur 7772",
+        "neighborhood": "Loma Dorada",
+        "zipCode": "45418",
+        "phone": "",
+        "atmId": [
+          67,
+          79
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.275",
+          "20.6399"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonalá",
+        "name": "Walmart Nilo",
+        "address": "Av Rio Nilo 7377 Esq. Malecon",
+        "neighborhood": "Lomas De La Soledad",
+        "zipCode": "45403",
+        "phone": "",
+        "atmId": 6647,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.275",
+          "20.6728"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Presa Laurel",
+        "address": "Presa Osorio 3947",
+        "neighborhood": "Fracc. San Joaquin",
+        "zipCode": "44770",
+        "phone": "",
+        "atmId": [
+          827,
+          828
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.276",
+          "20.66"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Tren Ligero Tetlan",
+        "address": "Gigantes 3541",
+        "neighborhood": "Agustin Yañez",
+        "zipCode": "44790",
+        "phone": "",
+        "atmId": 961,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.278",
+          "20.6408"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonalá",
+        "name": "Chedraui Gdl Lomas",
+        "address": "Rio Nilo 7540",
+        "neighborhood": "Centro",
+        "zipCode": "44008",
+        "phone": "",
+        "atmId": 1799,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.278",
+          "20.6409"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tonalá",
+        "name": "Suc Carrefour Nilo",
+        "address": "Rio Nilo 7540",
+        "neighborhood": "",
+        "zipCode": "44550",
+        "phone": "",
+        "atmId": [
+          3396,
+          3397
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.282",
+          "20.645"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Rio Nilo",
+        "address": "Av Rio Nilo 1000",
+        "neighborhood": "Lomas Del Nilo",
+        "zipCode": "44860",
+        "phone": "",
+        "atmId": 1559,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.284",
+          "20.6795"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Aurrera J M Iglesias",
+        "address": "Av Jose Maria Iglesias 3595",
+        "neighborhood": "Beatriz Hernandez",
+        "zipCode": "44760",
+        "phone": "",
+        "atmId": 942,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.286",
+          "20.6212"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Terminal Autobuses Gdl",
+        "address": "Central Camionera De Guadalajara Modulo-22nueva Central Camionera",
+        "neighborhood": "Nueva Central Camionera",
+        "zipCode": "45625",
+        "phone": "",
+        "atmId": 7289,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.286",
+          "20.6232"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Nueva Central",
+        "address": "Av De Las Torres 6000",
+        "neighborhood": "Nueva Central",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": [
+          1302,
+          8349,
+          882
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.286",
+          "20.6721"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Hermosa Provincia",
+        "address": "Esteban Alatorre 3356",
+        "neighborhood": "Hermosa Provincia",
+        "zipCode": "44770",
+        "phone": "",
+        "atmId": 758,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.288",
+          "20.6196"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Oxxo Zapotlanejo",
+        "address": "Autopista Zapotlanejo 1225 1225",
+        "neighborhood": "Camichines",
+        "zipCode": "45580",
+        "phone": "",
+        "atmId": 9827,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.288",
+          "20.6613"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc M Del Campesino",
+        "address": "Av Gigantes 3541",
+        "neighborhood": "Agustin Yañez",
+        "zipCode": "44790",
+        "phone": "",
+        "atmId": [
+          842,
+          843
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.292",
+          "20.6723"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Esteban Alatorre",
+        "address": "Esteban A La Torre 3102",
+        "neighborhood": "",
+        "zipCode": "44750",
+        "phone": "",
+        "atmId": [
+          4417,
+          9621
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.293",
+          "20.7039"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Santa Cecilia",
+        "address": "Joaquin Amaro 2254",
+        "neighborhood": "",
+        "zipCode": "44700",
+        "phone": "",
+        "atmId": [
+          836,
+          9277
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.296",
+          "20.5026"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Extra Zapote",
+        "address": "Av Revolucion 10",
+        "neighborhood": "El Zapote Del Valle",
+        "zipCode": "45672",
+        "phone": "",
+        "atmId": 6807,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.297",
+          "20.6947"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc San Onofre",
+        "address": "Hacienda Santiago 2306",
+        "neighborhood": "San Onofre",
+        "zipCode": "44700",
+        "phone": "",
+        "atmId": [
+          757,
+          759
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.302",
+          "20.6406"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Jardines De La Paz",
+        "address": "Av Revolucion 98",
+        "neighborhood": "",
+        "zipCode": "45570",
+        "phone": "",
+        "atmId": [
+          2390,
+          2391,
+          824,
+          9269
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.304",
+          "20.6625"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc San Andres",
+        "address": "Chamizal 26",
+        "neighborhood": "San Andres",
+        "zipCode": "44810",
+        "phone": "",
+        "atmId": [
+          4302,
+          4303
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.309",
+          "20.7166"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Universal Scientific",
+        "address": "Periferico M.g. Morin 656",
+        "neighborhood": "R. Santa Isabel",
+        "zipCode": "44290",
+        "phone": "",
+        "atmId": 3153,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31",
+          "20.6492"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Walmart Revolucion",
+        "address": "Ramon Lopez Velarde 821 Lomas Del Paradero",
+        "neighborhood": "Lomas Del Paradero",
+        "zipCode": "44400",
+        "phone": "",
+        "atmId": 2568,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.31",
+          "20.6498"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farm Pza Revolucion",
+        "address": "Plaza Revolucion L20 Zona",
+        "neighborhood": "Zona",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 959,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.312",
+          "20.6383"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc. 3870 Tlaquepaque",
+        "address": "Av Juarez 101",
+        "neighborhood": "Centro",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": [
+          3071,
+          3072,
+          3073
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.312",
+          "20.6453"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Rio Nilo",
+        "address": "Ctro Com Pza Rio Nilo L 1 Al 44860",
+        "neighborhood": "",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": 9038,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.312",
+          "20.675"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Sn Juan Bosco",
+        "address": "Industria 1653",
+        "neighborhood": "San Juan Bosco",
+        "zipCode": "44730",
+        "phone": "",
+        "atmId": [
+          2379,
+          724,
+          725
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.312",
+          "20.6918"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Circunvalacion",
+        "address": "Av. Circunvalacion Oblatos 1580 Entre Montebello Y Calz. Del Obrero",
+        "neighborhood": "",
+        "zipCode": "44350",
+        "phone": "",
+        "atmId": [
+          764,
+          7982
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.319",
+          "20.648"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Mega Tlaquepaque",
+        "address": "Av. Marcelino Garcia Barragan 2077 2077 Prados Del Nilo Y Av. Rio Nilo",
+        "neighborhood": "Prados Del Nilo",
+        "zipCode": "44840",
+        "phone": "",
+        "atmId": 7550,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.319",
+          "20.6639"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc 1029 Mercado Aldam",
+        "address": "Aldama 1410 La Loma Entre Antonio Tello (calle 52) Y Mota Padilla",
+        "neighborhood": "La Loma",
+        "zipCode": "44410",
+        "phone": "",
+        "atmId": 8556,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.321",
+          "20.6114"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Hotel El Tapatio",
+        "address": "Aeropuerto Internacional De La Ciudad De Mexico Local Cf-3 Primer Pe¥on De Los Ba¥os",
+        "neighborhood": "Pe¥on De Los Ba¥os",
+        "zipCode": "15520",
+        "phone": "",
+        "atmId": 4353,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.321",
+          "20.62"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc El Tapatio",
+        "address": "Av Solidaridad Iberoamericana 3091",
+        "neighborhood": "Revolucion",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": [
+          2410,
+          787,
+          788
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.321",
+          "20.7159"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Soriana Estadio",
+        "address": "Calz Independencia Norte 2955",
+        "neighborhood": "Lomas De Independencia",
+        "zipCode": "44240",
+        "phone": "",
+        "atmId": 9654,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.32",
+          "20.6984"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc. 3888 Belisario Do",
+        "address": "Belisario Dominguez 1911",
+        "neighborhood": "Monumental",
+        "zipCode": "44320",
+        "phone": "",
+        "atmId": [
+          3074,
+          3075
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.32",
+          "20.7191"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc. 1019 Comercial In",
+        "address": "Calz Independencia 3295",
+        "neighborhood": "Ricardo Flores Magon",
+        "zipCode": "44370",
+        "phone": "",
+        "atmId": [
+          3175,
+          3176,
+          3177
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.324",
+          "20.6756"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc 1027 San Felipe",
+        "address": "Esteban Loera 331 Al 345 Zona Oblatos Entre Francisco De Aiza Y Dionisio Rodriguez",
+        "neighborhood": "Zona Oblatos",
+        "zipCode": "44380",
+        "phone": "",
+        "atmId": 774,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.324",
+          "20.6757"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc San Felipe",
+        "address": "Esteban Loera 331 Al 345",
+        "neighborhood": "Oblatos",
+        "zipCode": "44380",
+        "phone": "",
+        "atmId": 5711,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.324",
+          "20.6953"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Bod Aurrera Belisario",
+        "address": "Belisario Dominguez 1651",
+        "neighborhood": "Monumental",
+        "zipCode": "44320",
+        "phone": "",
+        "atmId": 2789,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.326",
+          "20.6531"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Seven Eleven Marcelino",
+        "address": "Marcelino Barragan 1603 Esq Calzada O",
+        "neighborhood": "Universitaria",
+        "zipCode": "44840",
+        "phone": "",
+        "atmId": 7497,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.326",
+          "20.6533"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oxxo Olimpica",
+        "address": "Blvd. Marcelino Garcia Barragan 1550 1550 Esq Calzada Olimpica",
+        "neighborhood": "Ciudad Olimpica",
+        "zipCode": "44840",
+        "phone": "",
+        "atmId": 7416,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.326",
+          "20.6849"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Centro Medico Gdl",
+        "address": "Belisario Dominguez 810",
+        "neighborhood": "Belisario Dominguez",
+        "zipCode": "44370",
+        "phone": "",
+        "atmId": [
+          5755,
+          814
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.328",
+          "20.6248"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Alamo Industrial",
+        "address": "Av Oleoducto 2770",
+        "neighborhood": "Alamo Industrial",
+        "zipCode": "44490",
+        "phone": "",
+        "atmId": [
+          465,
+          5916
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.328",
+          "20.6446"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Colonia Atlas",
+        "address": "Rio Mascota 1967",
+        "neighborhood": "Atlas",
+        "zipCode": "44870",
+        "phone": "",
+        "atmId": [
+          1629,
+          832
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.329",
+          "20.6978"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Circunvalacion",
+        "address": "Calz Indep Nte 1544",
+        "neighborhood": "Independencia",
+        "zipCode": "44290",
+        "phone": "",
+        "atmId": [
+          1486,
+          729
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.329845",
+          "20.641118"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Rio Atotonilco",
+        "address": "Rio Atotonilco 1587",
+        "neighborhood": "Atlas",
+        "zipCode": "44870",
+        "phone": "",
+        "atmId": 371,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.333",
+          "20.562"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Farmacia Guadalajara T",
+        "address": "Antigua Carretera A Chapala 961 Parques De Santa Cruz Del Valle Esq. Con San Francisco",
+        "neighborhood": "Parques De Santa Cruz Del Valle",
+        "zipCode": "45550",
+        "phone": "",
+        "atmId": 7820,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.333",
+          "20.5677"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Bodega Aurrera Las Pin",
+        "address": "Antigua Carretera A Chapala 6738 6738 Churubusco Y San Pablo",
+        "neighborhood": "Las Pintas De Abajo",
+        "zipCode": "45619",
+        "phone": "",
+        "atmId": 7739,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.334",
+          "20.6733"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Javier Mina",
+        "address": "Av. Javier Mina 458",
+        "neighborhood": "San Juan De Dios",
+        "zipCode": "44360",
+        "phone": "",
+        "atmId": [
+          356,
+          357,
+          358
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.335",
+          "20.6673"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Revolucion",
+        "address": "Francisco Silva Romero 28",
+        "neighborhood": "1 Sector Reforma",
+        "zipCode": "44450",
+        "phone": "",
+        "atmId": [
+          259,
+          837
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.336",
+          "20.6589"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc 5 De Febrero",
+        "address": "Calz 5 De Febrero 555",
+        "neighborhood": "Sector Reforma",
+        "zipCode": "44430",
+        "phone": "",
+        "atmId": [
+          5926,
+          804
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.336",
+          "20.6849"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Parque Morelos",
+        "address": "Independencia Norte 582",
+        "neighborhood": "",
+        "zipCode": "44360",
+        "phone": "",
+        "atmId": [
+          4718,
+          4719
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.341",
+          "20.6755"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Tren Ligero S Juan De",
+        "address": "Obregon 150",
+        "neighborhood": "San Juan De Dios",
+        "zipCode": "44360",
+        "phone": "",
+        "atmId": 957,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.34",
+          "20.6767"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza Tapatia",
+        "address": "Republica Sn",
+        "neighborhood": "San Juan De Dios",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          307,
+          308,
+          309,
+          310
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.342",
+          "20.6107"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Gigante Guadalajara",
+        "address": "Calz Gobernador Curiel 4832",
+        "neighborhood": "Miravalle",
+        "zipCode": "44990",
+        "phone": "",
+        "atmId": 4969,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.342",
+          "20.6743"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Cinepolis Alameda",
+        "address": "Calz. Independencia Sur Interior Local D 128 Alvaro Obregon Y Gigantes",
+        "neighborhood": "Guadalajara Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": 7617,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.342",
+          "20.6984"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Colinas De La Normal",
+        "address": "Paseo De Los Filosofos 1466",
+        "neighborhood": "Colinas De La Normal",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": [
+          285,
+          286,
+          287,
+          288
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.342",
+          "20.7118"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Experiencia",
+        "address": "Fidel Velazquez 820",
+        "neighborhood": "Santa Elena De La Cruz",
+        "zipCode": "44230",
+        "phone": "",
+        "atmId": [
+          315,
+          316,
+          317
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.343",
+          "20.6565"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Gonzalez Gallo",
+        "address": "Calzada Gonzalez Gallo 350",
+        "neighborhood": "",
+        "zipCode": "44430",
+        "phone": "",
+        "atmId": 800,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.346",
+          "20.6757"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Secretaria De Finanzas",
+        "address": "Pedro Moreno 281",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": 8254,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347",
+          "20.6745"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Oficina Principal",
+        "address": "Av Corona 140",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          4081,
+          4082,
+          4724,
+          792,
+          793
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347",
+          "20.691"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Salud De Los Enfermos",
+        "address": "Juan Cano 926 Alcalde Barranquitas Entre Torres Quintero Y Silvestre Revueltas",
+        "neighborhood": "Alcalde Barranquitas",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": 7045,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347",
+          "20.7038"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Transito",
+        "address": "Av. Alcalde 1960",
+        "neighborhood": "Jardines Alcalde",
+        "zipCode": "44290",
+        "phone": "",
+        "atmId": [
+          4262,
+          4263,
+          4264
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347",
+          "20.7309"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Tiendas Extra Auditori",
+        "address": "Prol. Mariano Barcenas 1355 Auditorio",
+        "neighborhood": "Auditorio",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 7060,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.347463",
+          "20.669408"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "16 De Septiembre",
+        "address": "Av. 16 De Septiembre 500 A",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          270,
+          271
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.348",
+          "20.6837"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Santuario",
+        "address": "Av Alcalde 456",
+        "neighborhood": "",
+        "zipCode": "44280",
+        "phone": "",
+        "atmId": [
+          208,
+          4717
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.348322",
+          "20.663524"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Central Camionera",
+        "address": "Independencia Sur 980",
+        "neighborhood": "Sector Juarez",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          289,
+          290,
+          291
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.349",
+          "20.6282"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Rastro",
+        "address": "Gobernador Curiel Y Calle 7",
+        "neighborhood": "",
+        "zipCode": "44940",
+        "phone": "",
+        "atmId": [
+          798,
+          799
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.349",
+          "20.696"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Glorieta La Normal",
+        "address": "Av. Manuel Avila Camacho 1002",
+        "neighborhood": "Observatorio",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": [
+          318,
+          319,
+          320
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.349",
+          "20.7372"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Chedraui Federalismo",
+        "address": "Calle Prolongacion Federalismo Norte 1786 Luis Quintero Y Gonzalez",
+        "neighborhood": "Quinta Del Federalismo",
+        "zipCode": "45180",
+        "phone": "",
+        "atmId": 2914,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.35",
+          "20.6127"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Miravalle",
+        "address": "Jorge Gonzalez 4168",
+        "neighborhood": "Miravalle",
+        "zipCode": "44990",
+        "phone": "",
+        "atmId": [
+          1778,
+          789
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.352",
+          "20.6372"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Industrial",
+        "address": "Gobernador Curiel 2650",
+        "neighborhood": "",
+        "zipCode": "44940",
+        "phone": "",
+        "atmId": [
+          8355,
+          8356
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.352",
+          "20.7321"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Zapopan Auditorio",
+        "address": "Av Del Trabajo 673",
+        "neighborhood": "Bosque Escondido",
+        "zipCode": "45187",
+        "phone": "",
+        "atmId": [
+          1428,
+          2429,
+          5059
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.353",
+          "20.7285"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Wata Group",
+        "address": "Federalismo Norte 3750 Atemajac Del Valle Entre Paloma Y Periferico",
+        "neighborhood": "Atemajac Del Valle",
+        "zipCode": "45190",
+        "phone": "",
+        "atmId": 7564,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.354",
+          "20.6428"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Zona Industrial",
+        "address": "Av Lazaro Cardenas 749 749",
+        "neighborhood": "Zona Industrial",
+        "zipCode": "44940",
+        "phone": "",
+        "atmId": 728,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.354",
+          "20.6748"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Juarez",
+        "address": "Juarez 685",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          3807,
+          5712,
+          817
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.355",
+          "20.7142"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Atemajac",
+        "address": "Mezquitan 2563 L27 28",
+        "neighborhood": "Sector Hidalgo",
+        "zipCode": "45190",
+        "phone": "",
+        "atmId": 123,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.356",
+          "20.6747"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Tren Ligero Juarez",
+        "address": "Entre Federalismo Y Juarez",
+        "neighborhood": "",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 958,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.356",
+          "20.7149"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Bod Aurrera Atemajac",
+        "address": "Mezquitan 2563",
+        "neighborhood": "Sector Hidalgo",
+        "zipCode": "44218",
+        "phone": "",
+        "atmId": 2786,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.357",
+          "20.7134"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Price Shoes Gdl",
+        "address": "Av. Fidel Velazquez 1528 Col.vallarta Sur",
+        "neighborhood": "Vallarta Sur",
+        "zipCode": "44500",
+        "phone": "",
+        "atmId": 7265,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.359",
+          "20.6676"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Enrique Diaz De Leon",
+        "address": "Av. Enrique Diaz De Leon 599",
+        "neighborhood": "Moderna",
+        "zipCode": "44190",
+        "phone": "",
+        "atmId": [
+          3894,
+          3895
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.359",
+          "20.6747"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Universidad De Gdl",
+        "address": "Av. Juarez # 976",
+        "neighborhood": "Sector Juarez",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": 9616,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.359361",
+          "20.67806"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Hidalgo Munguia",
+        "address": "Enrique Diaz De Leon Nte 106",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          7365,
+          7399
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.361",
+          "20.648"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc 8 De Julio",
+        "address": "Av 8 De Julio Sn",
+        "neighborhood": "Centro",
+        "zipCode": "44910",
+        "phone": "",
+        "atmId": [
+          1090,
+          4281,
+          9737
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.361",
+          "20.6492"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oxxo Gorrion",
+        "address": "Av 8 De Julio 1638",
+        "neighborhood": "Fracc  8 De Julio",
+        "zipCode": "44910",
+        "phone": "",
+        "atmId": 1671,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36",
+          "20.7025"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "7eleven Avila Camacho",
+        "address": "Av. Manuel Avila Camacho 1717 1717 Agustin Melgar Y Nicolas Romero",
+        "neighborhood": "Chapultepec Country",
+        "zipCode": "44620",
+        "phone": "",
+        "atmId": 7215,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.36",
+          "20.7118"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Plaza Montecasino",
+        "address": "Prol Enrique Diaz De Leon 2273",
+        "neighborhood": "",
+        "zipCode": "44210",
+        "phone": "",
+        "atmId": 4837,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.362",
+          "20.6973"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Plan De San Luis",
+        "address": "Av Plan De San Luis 1636",
+        "neighborhood": "Chapultepec Country",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": [
+          684,
+          9238
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.367",
+          "20.7268"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc 1083 Mercado Bola3",
+        "address": "Calzada Constituyentes 2981",
+        "neighborhood": "Constitucion",
+        "zipCode": "48180",
+        "phone": "",
+        "atmId": [
+          7778,
+          855,
+          856
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.368",
+          "20.6662"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oxxo Chapultepec",
+        "address": "Av Chapultepec 613",
+        "neighborhood": "La Moderna",
+        "zipCode": "45200",
+        "phone": "",
+        "atmId": 9826,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.368",
+          "20.6748"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc 404 Chapultepec",
+        "address": "Av Vallarta 1400",
+        "neighborhood": "",
+        "zipCode": "44140",
+        "phone": "",
+        "atmId": [
+          114,
+          4501,
+          4547,
+          765
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood",
+          "name"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.368",
+          "20.6767"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Sria Finanzas Del Edo",
+        "address": "Av. Hidalgo 1435 Americas",
+        "neighborhood": "Las Americas",
+        "zipCode": "04410",
+        "phone": "",
+        "atmId": 2635,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.369",
+          "20.6841"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Sta Teresita",
+        "address": "Manuel Acuna 1521",
+        "neighborhood": "Santa Teresita",
+        "zipCode": "44600",
+        "phone": "",
+        "atmId": [
+          517,
+          812
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.369595",
+          "20.657051"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Fresno",
+        "address": "Fresno 1931",
+        "neighborhood": "Del Fresno",
+        "zipCode": "44900",
+        "phone": "",
+        "atmId": [
+          1083,
+          1102
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.37",
+          "20.7045"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Country Club Gdl",
+        "address": "Mar Caribe 260 Country",
+        "neighborhood": "Country",
+        "zipCode": "44610",
+        "phone": "",
+        "atmId": 2080,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.372",
+          "20.6416"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "7eleven Magallanes",
+        "address": "Av Fernando De Magallanes - 2602 Vasco De Gama Y Calle 5",
+        "neighborhood": "Colon Industrial",
+        "zipCode": "44930",
+        "phone": "",
+        "atmId": 7160,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.372",
+          "20.7401"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Tiendas Xtra Tabachine",
+        "address": "Av. Tabachines 2300 Jardines De Tabachines",
+        "neighborhood": "Jardines De Tabachines",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 7061,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.374",
+          "20.6926"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc. 405 Americas",
+        "address": "Av Americas 877",
+        "neighborhood": "",
+        "zipCode": "44600",
+        "phone": "",
+        "atmId": [
+          3390,
+          3391
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.375",
+          "20.6298"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc1070 Lomas De Pol",
+        "address": "Longinos Cadena 1520 Entre Othon Blanco Y Carlos Carrillo",
+        "neighborhood": "Lomas De Polanco",
+        "zipCode": "44960",
+        "phone": "",
+        "atmId": [
+          7626,
+          7627,
+          7628
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.375",
+          "20.6984"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Americas Neruda",
+        "address": "Av Americas 1509",
+        "neighborhood": "Providencia",
+        "zipCode": "44630",
+        "phone": "",
+        "atmId": 104,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.376",
+          "20.64"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Colon Industrial",
+        "address": "Colon 2762 2764 Y 2766",
+        "neighborhood": "C.p. 44930",
+        "zipCode": "44930",
+        "phone": "",
+        "atmId": [
+          5557,
+          745
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.376",
+          "20.6402"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Oxxo Colon",
+        "address": "Calle 2762 0 Vazquez  Coronado Y Lopez De Legazpi",
+        "neighborhood": "Jardines De La Cruz",
+        "zipCode": "44950",
+        "phone": "",
+        "atmId": 7417,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.376",
+          "20.6546"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Dhl Express Gld",
+        "address": "Av. Lazaro Cardenas 2229 Fraccionamiento Las Torres Entre Av. Del Mercado Y Av. Cruz Del Sur",
+        "neighborhood": "Fraccionamiento Las Torres",
+        "zipCode": "44920",
+        "phone": "",
+        "atmId": 7732,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.377946",
+          "20.714197"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Jacarandas",
+        "address": "Av. Manuel Avila Camacho 2958",
+        "neighborhood": "Residencial Conjunto Patria",
+        "zipCode": "45160",
+        "phone": "",
+        "atmId": [
+          373,
+          374,
+          375
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.378",
+          "20.7121"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farm Gdl Plaza Patria",
+        "address": "Plaza Patria Local L Zona 1",
+        "neighborhood": "",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 966,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.379",
+          "20.5283"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Suc Multiplaza Valle",
+        "address": "Av Concepcion Del Valle 6800",
+        "neighborhood": "San Jose Del Valle",
+        "zipCode": "45654",
+        "phone": "",
+        "atmId": [
+          1726,
+          2508,
+          5092
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.379",
+          "20.7127"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Patria",
+        "address": "Cc Plaza Patria Local 1 Zona A",
+        "neighborhood": "",
+        "zipCode": "45170",
+        "phone": "",
+        "atmId": [
+          4265,
+          4508,
+          4509
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.381",
+          "20.6741"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Cinepolis Centro Magno",
+        "address": "Av Vallarta 2425",
+        "neighborhood": "Centro",
+        "zipCode": "44100",
+        "phone": "",
+        "atmId": 1356,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.38",
+          "20.6509"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Abastos Nance",
+        "address": "Av Nance 1503",
+        "neighborhood": "Mercado De Abastos",
+        "zipCode": "44950",
+        "phone": "",
+        "atmId": 372,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.382",
+          "20.6573"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Mercado De Abastos",
+        "address": "Calle Mandarina 1102",
+        "neighborhood": "Mercado De Abastos",
+        "zipCode": "44530",
+        "phone": "",
+        "atmId": [
+          775,
+          9021
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.383",
+          "20.6452"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc J. De La Cruz",
+        "address": "Av Cruz Del Sur 2631",
+        "neighborhood": "",
+        "zipCode": "44950",
+        "phone": "",
+        "atmId": [
+          1621,
+          756
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.383",
+          "20.6735"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Arcos Vallarta",
+        "address": "Lopez Cotilla 2160",
+        "neighborhood": "Sector Juarez",
+        "zipCode": "44140",
+        "phone": "",
+        "atmId": [
+          4504,
+          70
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.384",
+          "20.7185"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Chedraui A Camacho Gdl",
+        "address": "Avenida Avila Camacho 3442 Entre Santa Elena Y Labaro Patrio",
+        "neighborhood": "El Capullo",
+        "zipCode": "45150",
+        "phone": "",
+        "atmId": 3595,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385",
+          "20.5849"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Bod Aurrera Toluquilla",
+        "address": "Prol. 20 De Noviembre Y Prol. Gonzalez Gallo",
+        "neighborhood": "San Sebastianito",
+        "zipCode": "45601",
+        "phone": "",
+        "atmId": 6993,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385",
+          "20.6663"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Ninos Heroes",
+        "address": "Av Niños Heroes 2715",
+        "neighborhood": "Jard. Del Bosque",
+        "zipCode": "44520",
+        "phone": "",
+        "atmId": [
+          120,
+          5997
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385",
+          "20.7418"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Zapopan",
+        "address": "Av Periferico Norte",
+        "neighborhood": "Valle De San Isidro",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": 8987,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.385",
+          "20.7546"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Super Ama San Isidro",
+        "address": "Camino A Bosques De San Isidro 1475 Centro Comercial Punta San Isidro Esquina Avenida Rio Blanco",
+        "neighborhood": "Centro Comercial Punta San Isidro",
+        "zipCode": "45135",
+        "phone": "",
+        "atmId": 3566,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.386",
+          "20.6467"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Pza Arboledas",
+        "address": "Cc Plaza Fiesta Arboledas Local D7 Al D10",
+        "neighborhood": "",
+        "zipCode": "44540",
+        "phone": "",
+        "atmId": [
+          8965,
+          9123
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.386",
+          "20.6982"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Providencia",
+        "address": "Av Pablo Neruda 2918",
+        "neighborhood": "Providencia",
+        "zipCode": "44630",
+        "phone": "",
+        "atmId": [
+          19,
+          20,
+          21
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.388",
+          "20.626"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Plaza Del Sauz",
+        "address": "Av Patria Y Colon Bloque B2",
+        "neighborhood": "",
+        "zipCode": "44950",
+        "phone": "",
+        "atmId": [
+          752,
+          753,
+          754
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.388",
+          "20.7209"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Farm. San Isidro",
+        "address": "Av. Americas 2",
+        "neighborhood": "",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 963,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.389",
+          "20.6844"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Terranova",
+        "address": "Av Manuel Acuña 2937",
+        "neighborhood": "",
+        "zipCode": "44670",
+        "phone": "",
+        "atmId": [
+          2268,
+          8358,
+          8467
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.389",
+          "20.7212"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Urbana Zapopan",
+        "address": "Hidalgo 270",
+        "neighborhood": "Zapopan Centro",
+        "zipCode": "47001",
+        "phone": "",
+        "atmId": [
+          2446,
+          2485,
+          8429,
+          8914
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.393",
+          "20.6873"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "7 Eleven Eulogio Parra",
+        "address": "Juan Palomas Y Arias 624",
+        "neighborhood": "Prado Providencia",
+        "zipCode": "44670",
+        "phone": "",
+        "atmId": 9524,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.396",
+          "20.6667"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "7 Eleven Chapalita",
+        "address": "Av Cuautitlan 690 Chapalita",
+        "neighborhood": "Chapalita",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": 5610,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.397",
+          "20.6147"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Chedraui Gdl Colon",
+        "address": "Avenida Colon 4856 Calle Del Tesoro E Isla Mezcala",
+        "neighborhood": "Mirador Del Tesoro",
+        "zipCode": "45608",
+        "phone": "",
+        "atmId": 3591,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.397",
+          "20.6365"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Sur",
+        "address": "Av Cruz Del Sur 3689",
+        "neighborhood": "Loma Bonita",
+        "zipCode": "45087",
+        "phone": "",
+        "atmId": [
+          737,
+          738,
+          739
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.397",
+          "20.6789"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Suc Plaza Mexico",
+        "address": "Av Mexico 3228",
+        "neighborhood": "Monraz",
+        "zipCode": "44670",
+        "phone": "",
+        "atmId": [
+          2536,
+          727
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.399",
+          "20.6579"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Lopez Mateos",
+        "address": "Av Lopez Mateos Sur 2074",
+        "neighborhood": "Chapalita",
+        "zipCode": "44550",
+        "phone": "",
+        "atmId": [
+          2380,
+          87
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.399",
+          "20.6795"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Farm Gdl Plaza Mexico",
+        "address": "Av Mexico 3300",
+        "neighborhood": "Vallarta Sur",
+        "zipCode": "44500",
+        "phone": "",
+        "atmId": 940,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.401",
+          "20.6498"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc. 1001 Plaza Del So",
+        "address": "Cc Plaza Del Sol Local 1 Zona 21",
+        "neighborhood": "Centro",
+        "zipCode": "44550",
+        "phone": "",
+        "atmId": [
+          3116,
+          3117,
+          3118,
+          3119,
+          3120
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.401",
+          "20.7388"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Belenes",
+        "address": "Av De  Maiz 1300",
+        "neighborhood": "Sta Margarita Zapopan",
+        "zipCode": "45140",
+        "phone": "",
+        "atmId": 2290,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4014414",
+          "20.73724451"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Belenes",
+        "address": "Av. Del Maiz 1300 Local 29",
+        "neighborhood": "Santa Margarita",
+        "zipCode": "45113",
+        "phone": "",
+        "atmId": [
+          2267,
+          2318
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.4014414425015",
+          "20.737244512415003"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Belenes",
+        "address": "Av. Del Maiz 1300 Local 29",
+        "neighborhood": "Santa Margarita",
+        "zipCode": "45113",
+        "phone": "",
+        "atmId": 2317,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.402",
+          "20.6034"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Plaza Centro Sur",
+        "address": "Periferico Sur Sn",
+        "neighborhood": "Santa Maria Tequepexpan",
+        "zipCode": "45601",
+        "phone": "",
+        "atmId": [
+          1967,
+          5560,
+          5735
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.402",
+          "20.6508"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "F Benavides P Del Sol",
+        "address": "Centro Comercial Plaza Del Sol L 3",
+        "neighborhood": "Jardines Plaza Del Sol",
+        "zipCode": "45055",
+        "phone": "",
+        "atmId": 2340,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.402",
+          "20.6529"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Del Sol",
+        "address": "Av Lopez Mateos Sur 2222",
+        "neighborhood": "Cd. Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": 118,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.403",
+          "20.6657"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Glorieta Chapalita",
+        "address": "Av Guadalupe 1125",
+        "neighborhood": "Chapalita",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": [
+          5925,
+          743,
+          9058
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.403",
+          "20.7045"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Acueducto",
+        "address": "Av Paseo De Acueducto 2000",
+        "neighborhood": "",
+        "zipCode": "45110",
+        "phone": "",
+        "atmId": 8585,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.405",
+          "20.674"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc La Gran Plaza",
+        "address": "Av. Vallarta 3959",
+        "neighborhood": "Don Bosco Vallarta",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": [
+          311,
+          312,
+          313,
+          314
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.406",
+          "20.7093"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Guadalajara",
+        "name": "Plaza Pabellon Gdl",
+        "address": "Av Acueducto 2380 Vista Del Bosque.",
+        "neighborhood": "Vista Del Bosque",
+        "zipCode": "44665",
+        "phone": "",
+        "atmId": 1940,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.409",
+          "20.7312"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Santa Margarita",
+        "address": "Sta Margarita 890",
+        "neighborhood": "",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": [
+          859,
+          860
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.409346",
+          "20.679156"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Plaza Galerias",
+        "address": "Av Rafael Sanzio 150 Local J13",
+        "neighborhood": "Residencial La Estancia",
+        "zipCode": "45120",
+        "phone": "",
+        "atmId": [
+          3,
+          5,
+          6
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "name"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41",
+          "20.6671"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Walmart Nino Obrero",
+        "address": "Av Niño Obrero 1551",
+        "neighborhood": "Fracc  Camino Real",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": 327,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41",
+          "20.6706"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Hotel Camino Real",
+        "address": "Av Niño Obrero 580-a 580a",
+        "neighborhood": "Fracc. Jardines De San Ignacio",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": 5680,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41",
+          "20.7424"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Arcos De Zapopan",
+        "address": "Av Tesistan 1133",
+        "neighborhood": "",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": [
+          2998,
+          852,
+          853,
+          854
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.41",
+          "20.7439"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Walmart La Cima",
+        "address": "Av Juan Gil Preciado 1544 Entre La Cima Y Arco Escoces",
+        "neighborhood": "Fracc La Cima",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": 2890,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.412",
+          "20.6445"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Kodak Mexicana",
+        "address": "Prol Av Mariano Otero 408",
+        "neighborhood": "Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": 8319,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.412",
+          "20.7098"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Walmart Patria",
+        "address": "Paseo Royal Contry 455 Av Patria Y Paseo De Los Virreyes",
+        "neighborhood": "Royal Contruy",
+        "zipCode": "45116",
+        "phone": "",
+        "atmId": 6951,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.412",
+          "20.71"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Andares",
+        "address": "Blvd Puerta Del Hierro Sn",
+        "neighborhood": "Puerta Del Hierro",
+        "zipCode": "45040",
+        "phone": "",
+        "atmId": [
+          5685,
+          7634
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.415",
+          "20.6426"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sams Club Zapopan",
+        "address": "Av Mariano Otero 340",
+        "neighborhood": "El Colli",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": 8342,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.415",
+          "20.6921"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Jardines Universidad",
+        "address": "Av Patria 1210",
+        "neighborhood": "Villa Universitaria",
+        "zipCode": "45110",
+        "phone": "",
+        "atmId": [
+          340,
+          341
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.415",
+          "20.7223"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Chedraui Acueducto",
+        "address": "Avenida Acueducto 6050",
+        "neighborhood": "Loma Del Bosque",
+        "zipCode": "45110",
+        "phone": "",
+        "atmId": 9313,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.416",
+          "20.607"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Iteso",
+        "address": "Av Periferico Sur 8285",
+        "neighborhood": "Centro",
+        "zipCode": "45500",
+        "phone": "",
+        "atmId": [
+          1303,
+          9308
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.417",
+          "20.6112"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "7 Eleven Iteso Ii",
+        "address": "Av Periferico Sur 8519 8519 Esq Con El Iteso",
+        "neighborhood": "El Mante",
+        "zipCode": "45609",
+        "phone": "",
+        "atmId": 7496,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.417",
+          "20.6298"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Las Aguilas",
+        "address": "Av Adolfo Lopez Mateos 5293",
+        "neighborhood": "",
+        "zipCode": "45080",
+        "phone": "",
+        "atmId": [
+          213,
+          4059,
+          4506
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.419",
+          "20.628"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Arboledas",
+        "address": "Av Lopez Mateos Sur 5187",
+        "neighborhood": "Fracc. Arboledas",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": [
+          117,
+          1329
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.419",
+          "20.6381"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7 Eleven La Calma",
+        "address": "Av La Calma 3473",
+        "neighborhood": "La Calma",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": 8609,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.419",
+          "20.6457"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Philip Morris Zapopan1",
+        "address": "Amado Nervo 1201 Ciudad Del Sol Mariano Otero Y Lamba Y Moctezuma",
+        "neighborhood": "Ciudad Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": 7479,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.420265",
+          "20.750359"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Belenes Plaza Aleira",
+        "address": "Av. Juan Gil Preciado 2001 Local 1-b",
+        "neighborhood": "El Tigre",
+        "zipCode": "44270",
+        "phone": "",
+        "atmId": [
+          1328,
+          566
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.421",
+          "20.7323"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Pza Sta Margatrita",
+        "address": "Av Marina Vallarta 210",
+        "neighborhood": "Fracc. Resid. Sta. Margarita",
+        "zipCode": "45130",
+        "phone": "",
+        "atmId": [
+          1327,
+          2436,
+          4607
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.42",
+          "20.6492"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Walmart Jardines Sol",
+        "address": "Boulevard Centenario",
+        "neighborhood": "Francisco Villa",
+        "zipCode": "81278",
+        "phone": "",
+        "atmId": 1001,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.422",
+          "20.6472"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Philip Morris Zapopan2",
+        "address": "Av Patria 2401 Ciudad Del Sol Av Moctezuma Y Calle El Colli",
+        "neighborhood": "Ciudad Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": 7480,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.422",
+          "20.6528"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Tepeyac",
+        "address": "Av Patria 1383",
+        "neighborhood": "Fracc. Mirador Del Sol",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": 2460,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.422",
+          "20.6529"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Tepeyac",
+        "address": "Av Central 120 C Comercial Plaza Aragon Locales 241 A 244 120",
+        "neighborhood": "",
+        "zipCode": "55140",
+        "phone": "",
+        "atmId": [
+          1247,
+          4846,
+          8219,
+          848
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address",
+          "neighborhood",
+          "name"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.422",
+          "20.6584"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Cordilleras",
+        "address": "Av J  Manuel Clouthier 888",
+        "neighborhood": "Jardines De Gpe",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": 1438,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.424",
+          "20.6559"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7eleven Clouthier Y Te",
+        "address": "Av. Tepeyac 5030 5030 Tepeyac Y Av. Patria",
+        "neighborhood": "Jardines Tepeyac",
+        "zipCode": "45034",
+        "phone": "",
+        "atmId": 7152,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.425",
+          "20.6341"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Oxxo Arboledas",
+        "address": "Av Copernico 4480",
+        "neighborhood": "Arboledas",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": 1650,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.425",
+          "20.6698"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Zapopan Patria",
+        "address": "Av Patria 320",
+        "neighborhood": "La Estancia",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": [
+          685,
+          9505
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.426",
+          "20.6335"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Mariano Otero",
+        "address": "Av Copernico 4419",
+        "neighborhood": "Paseos Del Sol",
+        "zipCode": "45070",
+        "phone": "",
+        "atmId": [
+          1479,
+          9053,
+          9509
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.427",
+          "20.6884"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Oxxo Naciones Unidas",
+        "address": "Naciones Unidas 5430",
+        "neighborhood": "Jardines Universidad",
+        "zipCode": "45117",
+        "phone": "",
+        "atmId": 9818,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.428",
+          "20.6792"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Costco Guadalajara",
+        "address": "Rafael Sanzio Esq. Av. Vallarta",
+        "neighborhood": "",
+        "zipCode": "45020",
+        "phone": "",
+        "atmId": [
+          4102,
+          8937
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.43",
+          "20.6778"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Cinepolis Galerias Gdl",
+        "address": "Rafael Sanzio 150",
+        "neighborhood": "La Estancia Residencial",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": 1346,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.432169",
+          "20.658571"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Plaza Guadalupe",
+        "address": "Av. Copernico 3280",
+        "neighborhood": "Residencial Plaza Guadalu",
+        "zipCode": "45050",
+        "phone": "",
+        "atmId": [
+          158,
+          159
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.433",
+          "20.606"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Oxxo Bugambilias",
+        "address": "Av Lopez Mateos 1107",
+        "neighborhood": "Miguel De La Madrid",
+        "zipCode": "45080",
+        "phone": "",
+        "atmId": 9822,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.433",
+          "20.6788"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Walmart Zapopan",
+        "address": "Av Vallarta 5455 Esq. 15 Plaza Galerias",
+        "neighborhood": "La Estancia",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": 962,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.433",
+          "20.6806"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Sams Club Vallarta",
+        "address": "Av Vallarta Y Rafael Samsio 5455 Esq. Rafael Samsio",
+        "neighborhood": "La Estancia",
+        "zipCode": "45030",
+        "phone": "",
+        "atmId": 8425,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.434",
+          "20.6821"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Chedraui Gdl Vallarta",
+        "address": "Avenida Vallarta 5556",
+        "neighborhood": "Lomas De Universidad",
+        "zipCode": "45016",
+        "phone": "",
+        "atmId": 9763,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.438",
+          "20.5978"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7 Eleven Aguablanca",
+        "address": "Aguamarina 340 340 Agua Prieta Y Agua Marina",
+        "neighborhood": "Agua Blanca",
+        "zipCode": "45235",
+        "phone": "",
+        "atmId": 7147,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.441",
+          "20.7302"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Valle Real",
+        "address": "Sta Margarita 4796-a",
+        "neighborhood": "Jardin Real",
+        "zipCode": "45136",
+        "phone": "",
+        "atmId": 1888,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.443",
+          "20.588"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Superama Santa Anita",
+        "address": "Av Lopez Mateos Sur",
+        "neighborhood": "Santa Anita",
+        "zipCode": "45645",
+        "phone": "",
+        "atmId": 6786,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.444",
+          "20.5905"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Suc Plaza El Palomar",
+        "address": "A Lopez Mateos Sur Sn",
+        "neighborhood": "El Palomar",
+        "zipCode": "45090",
+        "phone": "",
+        "atmId": [
+          3394,
+          3395
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.446",
+          "20.5511"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlaquepaque",
+        "name": "Suc Sta Anita R Corona",
+        "address": "Ramon Corona 202",
+        "neighborhood": "",
+        "zipCode": "45600",
+        "phone": "",
+        "atmId": [
+          1618,
+          392
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "neighborhood"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.447",
+          "20.4755"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Suc Tlajomulco Centro",
+        "address": "Crescenciano Hernandez 46",
+        "neighborhood": "Centro",
+        "zipCode": "45640",
+        "phone": "",
+        "atmId": [
+          2497,
+          5176
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id",
+          "address"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.447757",
+          "20.677316"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Ciudad Granja",
+        "address": "Calz Central 133",
+        "neighborhood": "Ciudad Granja",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": [
+          430,
+          431
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.448",
+          "20.6006"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Soriana Bugambilias",
+        "address": "Blv Bugambilias",
+        "neighborhood": "Bugambilias",
+        "zipCode": "45120",
+        "phone": "",
+        "atmId": 1551,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.449",
+          "20.58"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Mega Com Guadalajara",
+        "address": "Blvd Adolfo Lopez Mateos",
+        "neighborhood": "Nueva Galicia",
+        "zipCode": "45645",
+        "phone": "",
+        "atmId": 1459,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.449",
+          "20.676"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7eleven Fresnos",
+        "address": "Calz De Los Frenos 6948 Central Y Circunvalacion Poniente",
+        "neighborhood": "Fraccionamiento Ciudad Granja",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": 7214,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.454",
+          "20.6931"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Concentro",
+        "address": "Av. Vallarta 6503",
+        "neighborhood": "Cd Granja",
+        "zipCode": "45010",
+        "phone": "",
+        "atmId": [
+          7413,
+          7449,
+          7494
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "name",
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.455",
+          "20.7348"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Tec Campus Gdl",
+        "address": "Av General Ramon Corona 2514",
+        "neighborhood": "Nuevo Mexico",
+        "zipCode": "45201",
+        "phone": "",
+        "atmId": 5898,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.457",
+          "20.7128"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Oxxo Aviacion Gdl",
+        "address": "5 De Mayo 10",
+        "neighborhood": "Pueblo San Juan De Ocotlan",
+        "zipCode": "45020",
+        "phone": "",
+        "atmId": 9819,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.46",
+          "20.565"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Suc El Manantial",
+        "address": "Av Lopez Mateos Sur 5570",
+        "neighborhood": "El Manantial",
+        "zipCode": "45645",
+        "phone": "",
+        "atmId": 5223,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.464",
+          "20.6261"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Bodega Aurrera Mariano",
+        "address": "Av. Mariano Otero 3210 3210 Esq. Guardia Nacional",
+        "neighborhood": "El Fortin",
+        "zipCode": "45066",
+        "phone": "",
+        "atmId": 7743,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.465",
+          "20.6265"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Extra La Floresta",
+        "address": "Av. Guardia Nacional 2795 Fraccionamiento Mision La Floresta",
+        "neighborhood": "Fraccionamiento Mision La Floresta",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 7053,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.466",
+          "20.7096"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "7eleven Bajio",
+        "address": "Av Vallarta 7525 Sin Cruce",
+        "neighborhood": "San Juan  De Ocotan",
+        "zipCode": "45019",
+        "phone": "",
+        "atmId": 7176,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.475",
+          "20.5347"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "7 Eleven Casa Fuerte",
+        "address": "Carretera Guadalajara-morelia 8100",
+        "neighborhood": "Tierra Salada",
+        "zipCode": "45845",
+        "phone": "",
+        "atmId": 2938,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.477",
+          "20.7983"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Zapopan",
+        "name": "Suc Tesistan",
+        "address": "Calle Puebla 9",
+        "neighborhood": "Centro",
+        "zipCode": "45200",
+        "phone": "",
+        "atmId": [
+          975,
+          976
+        ],
+        "openingHours": {},
+        "isVerified": false,
+        "issues": [
+          "id"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.483",
+          "20.5223"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Outlet Guadalajara",
+        "address": "Carretera Guadalajara-morelia Km. 12.5",
+        "neighborhood": "Tlajomulco De Zuñiga",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 518,
+        "openingHours": {},
+        "isVerified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-103.49",
+          "20.4871"
+        ]
+      },
+      "properties": {
+        "bank": "BBVA Bancomer",
+        "type": "ATM",
+        "state": "Jalisco",
+        "municipality": "Tlajomulco De Zúñiga",
+        "name": "Decasa 4 Gdl",
+        "address": "Camino A Santa Cruz De Las Flores Tlajomulco",
+        "neighborhood": "",
+        "zipCode": "00000",
+        "phone": "",
+        "atmId": 2905,
+        "openingHours": {},
+        "isVerified": false
+      }
+    }
+  ]
+}
